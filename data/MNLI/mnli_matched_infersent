@@ -1,0 +1,2568 @@
+orig premise:	In Temple Bar , the bookshop at the Gallery of Photography carries a large selection of photographic publications , and the Flying Pig is a secondhand bookshop .
+orig hypothesis (0):	There is a bookshop at the gallery .
+adv hypothesis (2):	There is a bookseller at the gallery .
+
+orig premise:	Expenses included in calculating net cost for education and training programs that are intended to increase or maintain national economic productive capacity shall be reported as investments in human capital as required supplementary stewardship information accompanying the financial statements of the Federal Government and its component units .
+orig hypothesis (0):	Net cost for education programs can be calculated as a way to increase productivity .
+adv hypothesis (1):	Net cost for education programs can be calculated as a routed to increase productivity .
+
+orig premise:	Guards would regulate those who entered and departed .
+orig hypothesis (0):	Guards checked who went in and out .
+adv hypothesis (1):	Guards checked who grabbed in and out .
+
+orig premise:	You 'll even be able to consult a traditional herbalist to cure your ailments .
+orig hypothesis (2):	You will not be allowed to consult with traditional herbalists .
+adv hypothesis (1):	You will not sont allowed to advisory with traditional herbalists .
+
+orig premise:	Lincoln glared .
+orig hypothesis (1):	The man was angry .
+adv hypothesis (0):	The man was irate .
+
+orig premise:	Your man would n't have remained conscious after the first blow .
+orig hypothesis (2):	Your man stayed conscious even after the first blow .
+adv hypothesis (0):	Your man stopped conscious even after the first blow .
+
+orig premise:	Larger ski resorts are 90 minutes away .
+orig hypothesis (0):	If we travel for 90 minutes , we could arrive at larger ski resorts .
+adv hypothesis (2):	If we travel for 90 minutes , we could viens at larger ski resorts .
+
+orig premise:	Escaped or abandoned raccoons have been breeding in the wild for the past 20 years and have damaged corn crops , watermelon and melon farms , and rainbow trout hatcheries , the paper said .
+orig hypothesis (1):	Raccoons , if they are escaped or abandoned , tend to damage things - this is what has been happening for the past 20 years - but many organizations are trying to solve the problem .
+adv hypothesis (0):	Raccoons , if they are escaped or abandoned , tends to damage things - this is what has been happening for the past 20 years - but multi organization are searching to solve the problem .
+
+orig premise:	Czarek had to fight for attention :
+orig hypothesis (0):	Czarek had to engage in a fight to seek attention .
+adv hypothesis (1):	Czarek acres to engage in a fight to seek attention .
+
+orig premise:	Tuppence frowned .
+orig hypothesis (2):	Tuppence beamed with delight .
+adv hypothesis (0):	Tuppence gazed with arousal .
+
+orig premise:	What are you going to do about it ? '' Tuppence frowned severely .
+orig hypothesis (1):	Tuppence wanted to know what the plan was ?
+adv hypothesis (0):	Tuppence desired to know what the plan was ?
+
+orig premise:	From here , many HIV researchers are putting their hopes on combining drug treatments with strategies that boost the immune system .
+orig hypothesis (2):	HIV researches do n't think there 's any hope for curing the disease .
+adv hypothesis (1):	HIV researches could n't thinking there 's any desiring for cirrhosis the nausea .
+
+orig premise:	Answer ? said Julius .
+orig hypothesis (1):	Julius needed an answer right then .
+adv hypothesis (0):	Julius obliged an answer right then .
+
+orig premise:	and uh it may be a Mexican pizza sometimes both together um along with and see it which is really funny too you know normally she goes straight for vegetables except when she 's having French fries
+orig hypothesis (0):	She often eats vegetables unless she 's having french fries .
+adv hypothesis (1):	She routinely eats vegetables unless she 's having french fries .
+
+orig premise:	It hopes to bring on another 25 or 35 people when the new building opens next fall .
+orig hypothesis (1):	They already have a waiting list for the new building .
+adv hypothesis (0):	They already have a waiting registration for the new building .
+
+orig premise:	The next morning they ate dry bread , two strips of lean meat , and two eggs fried in animal fat on a skillet of black scorched iron .
+orig hypothesis (1):	They ate a hearty breakfast before heading out for the day .
+adv hypothesis (2):	They ate a hearty noon before heading out for the day .
+
+orig premise:	The National Football League semifinals are set .
+orig hypothesis (1):	They were unable to disclose when the dates would be set .
+adv hypothesis (2):	They were inoperative to disclose when the dates would be set .
+
+orig premise:	He writes that it 's the first time he 's added such a track .
+orig hypothesis (0):	This is the first time he 's added such a track .
+adv hypothesis (1):	This is the first time he 's complements such a rail .
+
+orig premise:	She hates me . ''
+orig hypothesis (2):	She loves me .
+adv hypothesis (1):	She iove me .
+
+orig premise:	She would be almost certainly sent to you under an assumed one .
+orig hypothesis (1):	The man told the other man that she would be sent to him .
+adv hypothesis (2):	The man told the other man that she would be channelled to him .
+
+orig premise:	Do n't miss the open-air market close by the wharves .
+orig hypothesis (0):	The open-air market near the wharves ca n't be missed .
+adv hypothesis (2):	The open-air market tightest the wharves ca n't be missed .
+
+orig premise:	The Times says this tracking list is drawn up from information from bookstores , but publishers say they routinely call up the Times to tip them off to books selling with increasing momentum so that they can be added to the tracking list .
+orig hypothesis (1):	Times is lying about drawing up lists from the bookstores .
+adv hypothesis (0):	Times is falsehoods about drawing up lists from the bookstores .
+
+orig premise:	and the nurses are n't no see you have to pay that
+orig hypothesis (1):	You have to pay for that if social security wo n't cover it .
+adv hypothesis (0):	You possesses to pay for that if social security wo n't cover it .
+
+orig premise:	Following publication of the proposed rule -LRB- 58 Fed .
+orig hypothesis (0):	The proposed rule was published .
+adv hypothesis (1):	The proposed rule was spreading .
+
+orig premise:	On the west side of the square is Old King 's House -LRB- built in 1762 -RRB- , which was the official residence of the British governor ; it was here that the proclamation of emancipation was issued in 1838 .
+orig hypothesis (0):	On the west end of the square is the Old King 's House which was built in 1762 .
+adv hypothesis (2):	On the western ceasing of the square is the Old King 's House which was erect in 1762 .
+
+orig premise:	The tree-lined avenue extends less than three blocks to the sea .
+orig hypothesis (0):	The sea is n't even three blocks away .
+adv hypothesis (2):	The oceanic is n't even three blocks away .
+
+orig premise:	He found himself thinking in circles of worry and pulled himself back to his problem .
+orig hypothesis (1):	He could not afford to get distracted from his problem .
+adv hypothesis (2):	He could not lend to get distracted from his problem .
+
+orig premise:	Critics praise Goodman 's finely honed descriptive abilities and instinctive grasp of familial dynamics , the ways in which dreams and emotional habits are handed down ...
+orig hypothesis (0):	Critics say Goodman has an instinctive grasp of familial dynamics .
+adv hypothesis (2):	Critics dis Goodman has an instinctive grasp of familial dynamics .
+
+orig premise:	I was deeply impressed by the power and eloquence of the counsel for the defence .
+orig hypothesis (0):	I thought that the counsel for his defence displayed power and eloquence .
+adv hypothesis (2):	I cru that the counsel for his defence displayed power and eloquence .
+
+orig premise:	yeah and i 'll do this uh sometimes i 'll put my after I pour that into my back into my saucepan i 'll put the eggs in the same dish and beat them up and then pour the cornstarch and the milk mixture in the egg so
+orig hypothesis (0):	Sometimes I put the eggs in the same dish and add the cornstarch .
+adv hypothesis (2):	Sometimes I put the eggs in the same plat and complements the cornstarch .
+
+orig premise:	yeah well that 's the other thing you know they talk about women leaving the home and going out to work well still taking care of the children is a very important job and and someone 's got to do it and be able to do it right and
+orig hypothesis (1):	Traditional gender roles were correct all along .
+adv hypothesis (2):	Traditional gender idiosyncrasies were correct all along .
+
+orig premise:	Christ on a crutch , what does he have to do to lose your support , stab David Geffen with a kitchen knife ?
+orig hypothesis (1):	You have extreme political devotion .
+adv hypothesis (2):	You have heavy political devotion .
+
+orig premise:	It also describes the results of the scenario analysis , both in terms of the various marginal costs associated with emission control strategies and the economy-wide impact of each scenario .
+orig hypothesis (0):	It gives a breakdown of both the costs and impacts of the scenarios .
+adv hypothesis (2):	It entrusts a breakdown of both the costs and impacts of the scenarios .
+
+orig premise:	The movie is n't clear on where the secret report that kicked off Bergman 's interest in tobacco came from , or who in the FDA thought it was a good idea to turn him onto Wigand .
+orig hypothesis (2):	Bergman does not know who Wigand is .
+adv hypothesis (0):	Bergman does not knowing who Wigand is .
+
+orig premise:	For example , NIPA excludes capital transfers , like estate tax receipts , which are recorded as revenue in the unified budget , and investment grants-in-aid to state and local governments , which the unified budget records as outlays .
+orig hypothesis (0):	NIPA excludes capital transfers .
+adv hypothesis (2):	NIPA excludes investments transfers .
+
+orig premise:	In the short term , U.S. consumers will benefit from cheap imports -LRB- as will U.S. multinationals that use parts made in East Asian factories -RRB- .
+orig hypothesis (1):	U.S. consumers will put money in the pockets of East Asia over time .
+adv hypothesis (2):	U.S. consumers gonna put money in the pockets of East Asia over time .
+
+orig premise:	Marriage is an important institution .
+orig hypothesis (2):	Marriage is irrelevant .
+adv hypothesis (0):	Marriage is intangible .
+
+orig premise:	IRS Restructuring and Reform Act , its budget requests , and administration of various tax
+orig hypothesis (0):	Containing IRS Restructuring and Reform Act , its budget requests , and administration of various tax
+adv hypothesis (2):	Containing IRS Restructuring and Reform Act , its budget requisition , and administration of various tax
+
+orig premise:	Therefore , many leading finance organizations have calculated and compared these percentages as a general indication of how well they supported the organization 's business objectives .
+orig hypothesis (0):	The result percentages are an indication of correctness of organization 's business objectives .
+adv hypothesis (1):	The result percentages are an indication of sanity of organization 's business objectives .
+
+orig premise:	Saddam could emerge strengthened -LRB- and America tarnished -RRB- in the eyes of the Arab world .
+orig hypothesis (1):	America 's opinion on Saddam would also worsen .
+adv hypothesis (2):	America 's kwun on Saddam would also worsen .
+
+orig premise:	In 1099 , under their leaders Godfrey de Bouillon and Tancred , the Crusaders captured the Holy City for Christendom by slaughtering both Muslims and Jews .
+orig hypothesis (1):	The Crusaders captured the Holy City and killed 100,000 Muslims .
+adv hypothesis (2):	The Crusaders detainees the Holy City and killed 100,000 Muslims .
+
+orig premise:	Catch up on the Indian avant-garde and the bohemian people of Caletta at the Academy of Fine Arts on the southeast corner of the Maidan .
+orig hypothesis (1):	The Academy of Fine Arts is a prominent school for all up and coming artists .
+adv hypothesis (2):	The Academy of Fine Arts is a visible ecole for all up and coming artists .
+
+orig premise:	Economic growth also depends on education to enhance the knowledge and skills of the nation 's work
+orig hypothesis (2):	Economic growth will continue without regard to the skills of the nation 's work .
+adv hypothesis (1):	Economic grew goes lingering without vena to the talented of the populace 's collaborating .
+
+orig premise:	These revelations were embarrassing to Clinton 's opponents , wrote the Washington Post . The Sun-Times quoted Rahm Emanuel , Stephanopoulos ' successor , on the From Day One I always thought this was politically motivated and had politics written all over it ; after five years , it is nice to have the truth catch up with the president 's political opponents .
+orig hypothesis (1):	Clinton 's supporters were pleased with how the hearings went .
+adv hypothesis (0):	Clinton 's fanatics were pleased with how the hearings went .
+
+orig premise:	The main gate of the churchyard leads out to Greyfriars Place , and across the street you will find an excellent view of one of Scotland 's newest museums .
+orig hypothesis (2):	Across the street from the churchyard there is a forrest , with little view of anything other than trees .
+adv hypothesis (1):	Across the street from the churchyard there is a forrest , with little views of anything other than trees .
+
+orig premise:	Changes in technology and its application to electronic commerce and expanding Internet applications will change the specific control activities that may be employed and how they are implemented , but the basic requirements of control will not have changed .
+orig hypothesis (0):	Changes in technology will change how certain control activities are implemented .
+adv hypothesis (2):	Changes in technology will mutation how certain control activities are implemented .
+
+orig premise:	well in a way you can travel light
+orig hypothesis (0):	You can travel light .
+adv hypothesis (2):	You can travel incandescent .
+
+orig premise:	Station Jesus meets his mother .
+orig hypothesis (2):	Station Jesus was unable to meet his mother .
+adv hypothesis (1):	Station Jesus was unable to cope his mom .
+
+orig premise:	Since the system would automatically verify all receipts and acceptances prior to invoice payment authorization , there would be no need to authorize payment prior to verification of receipt .
+orig hypothesis (1):	The new system is computer based and includes customer credit card information .
+adv hypothesis (2):	The new system is equipments based and includes customer credit card information .
+
+orig premise:	You 're crazed , Beresford .
+orig hypothesis (0):	You are demented , Beresford .
+adv hypothesis (2):	You are batshit , Beresford .
+
+orig premise:	In these cases , participants risk losing not only their jobs but also a significant portion of their retirement savings if their company files for bankruptcy .
+orig hypothesis (1):	Participants who have worked at the company for less than 4 years are at a higher risk of losing their job during bankruptcy .
+adv hypothesis (0):	Participants who possess worked at the company for less than 4 years are at a maximum risk of losing their job during bankruptcy .
+
+orig premise:	The policy succeeded , and I was fortunate to have had the opportunity to make that contribution to my people .
+orig hypothesis (2):	The policy failed and I am glad to have not helped my people .
+adv hypothesis (1):	The politician flawed and I am glad to enjoys not supports my gens .
+
+orig premise:	Moreover , it is possible to have questions that require nested case studies .
+orig hypothesis (0):	Also , questions can require nested case studies .
+adv hypothesis (2):	Also , problema can require nested case studies .
+
+orig premise:	The management of the cafe has established the rules for the use of their facility .
+orig hypothesis (1):	The management of the cafe enforces a strict dress code .
+adv hypothesis (2):	The management of the cafe enforces a strict blouse code .
+
+orig premise:	He argued that these governors shared the congressional Republican agenda enshrined in the 1994 Contract With America .
+orig hypothesis (1):	The governors were angry men
+adv hypothesis (2):	The governors were antagonise men
+
+orig premise:	As with other types of internal controls , this is a cycle of activity , not an exercise with a defined beginning and end .
+orig hypothesis (2):	There is a clear ending to this exercise , and it 's fast approaching .
+adv hypothesis (1):	There is a outright ending to this excercise , and it 's faster approaching .
+
+orig premise:	Guangzhou , with a population of more than 5 million , straddles the Pearl River China 's fifth longest which links the city to the South China Sea .
+orig hypothesis (1):	The population of Guangzhou has been growing out of control for the past century .
+adv hypothesis (0):	The population of Guangzhou possesses been rising out of controls for the past century .
+
+orig premise:	A succession of discoveries has taught us about archeabacteria , very ancient and primitive single-cell organisms that live in the places you 'd least expect anything to call home .
+orig hypothesis (0):	Several discoveries have taught us about archaebacteria , a very ancient and primitive single-cell organism that lives in unexpected places .
+adv hypothesis (1):	Several discoveries enjoy taught us about archaebacteria , a very ancient and primal single-cell organism that lives in unexpected places .
+
+orig premise:	Managing better requires that agencies have , and rely upon , sound financial and program information .
+orig hypothesis (1):	Agencies that rely on information based on unsound financial information will have management problems .
+adv hypothesis (2):	Agencies that confide on information based on unsound financial information will has manger problems .
+
+orig premise:	we would n't be expected to cast a ballet on the subject
+orig hypothesis (1):	We should n't be expected to vote on this matter because we do not have sufficient information .
+adv hypothesis (2):	We should n't be expected to vote on this matter because we fait not have sufficient information .
+
+orig premise:	-LRB- The Ramseys buried their daughter in Atlanta , then vacationed in Sea Island , Ga. -RRB- This absence , some speculate , gave the Ramseys time to work out a story to explain their innocence .
+orig hypothesis (1):	The Ramseys went on vacation to relieve themselves of killing their daughter .
+adv hypothesis (2):	The Ramseys went on recess to relieve themselves of killing their daughter .
+
+orig premise:	The aggregate effect on the amount of federal government saving is what affects the level of national saving and economic growth .
+orig hypothesis (0):	Federal government saving affects economic growth .
+adv hypothesis (2):	Federal vlado saving affects economic growth .
+
+orig premise:	and i 'm pretty happy with it so far
+orig hypothesis (2):	I do n't like it .
+adv hypothesis (0):	I do n't adored it .
+
+orig premise:	When a GAGAS attestation engagement is the basis for an auditor 's subsequent report under the AICPA standards , it would be advantageous to users of the subsequent report for the auditor 's report to include the information on compliance with laws and regulations and internal control that is required by GAGAS but not required by AICPA standards .
+orig hypothesis (0):	The report is required by GAGAS but not AICPA .
+adv hypothesis (2):	The report is obligated by GAGAS but not AICPA .
+
+orig premise:	It 's conceivable that some of these allegations are true , and there 's no harm in checking them out , as long as the decedent 's family agrees to participate .
+orig hypothesis (2):	None of the allegations are true .
+adv hypothesis (0):	None of the confirmations are true .
+
+orig premise:	I now submit this report to you and the other designated officials .
+orig hypothesis (2):	I will not give the report to you or the other officials
+adv hypothesis (1):	I will not afford the enlightened to you or the other officials
+
+orig premise:	Comparing our experience on the Acid Rain Program with the NOx SIP Call and the Section 126 petitions demonstrates the benefit of having certain key issues decided by Congress rather than left to Agency rulemakings .
+orig hypothesis (0):	It is beneficial to have certain key issues decided by congress rather than agency rulemakings .
+adv hypothesis (2):	It is handy to haya certain key issues decided by congress rather than agency rulemakings .
+
+orig premise:	This points to a final press-friendly quality of McCain ' brilliant flattery .
+orig hypothesis (1):	This leads to a final press-friendly quality of McCain ' brilliant flattery , said the journalist .
+adv hypothesis (0):	This leads to a final press-friendly quality of McCain ' brilliant flattery , said the journo .
+
+orig premise:	He sat for a moment in silence .
+orig hypothesis (2):	Standing , he let out a harsh yell .
+adv hypothesis (0):	Standing , he abandoning out a harsh yell .
+
+orig premise:	It is also sometimes called simply Beaubourg , after the 13th-century neighborhood that surrounds it .
+orig hypothesis (0):	It is sometimes referred to be the name of the surrounding neighborhood .
+adv hypothesis (2):	It is always referred to be the name of the surrounding neighborhood .
+
+orig premise:	The show , which begins each evening at 9:00 p.m. , relates in melodramatic fashion the history of Istanbul while coloured floodlights illuminate the spectacular architecture of the Blue Mosque .
+orig hypothesis (2):	The show begins at nine o'clock in the morning .
+adv hypothesis (1):	The fairs begins at nine o'clock in the morning .
+
+orig premise:	The formal splendor of the grounds testify to the 18th-century desire to tame nature , but it is done with such superlative results that one can only be thankful that the work was undertaken .
+orig hypothesis (1):	The grounds were more beautiful than any other location .
+adv hypothesis (2):	The grounds were more peachy than any other location .
+
+orig premise:	-LRB- Never mind the strictest reading , which supposes that creation took a week . -RRB-
+orig hypothesis (0):	The creation apparently took a week , supposes the reading .
+adv hypothesis (2):	The creation apparently took a mois , supposes the reading .
+
+orig premise:	The Office of Information and Regulatory Affairs of OMB approved the
+orig hypothesis (0):	Something was approved by the office of affairs .
+adv hypothesis (2):	Something was approved by the salle of affairs .
+
+orig premise:	oh well yeah that 's all i have to say thank you
+orig hypothesis (0):	Thank you , that 's all I have to say .
+adv hypothesis (2):	Thank you , that 's all I have to dis .
+
+orig premise:	In a still faintly Victorian atmosphere , Dinard has preserved all the best assets of a good luxury villas and long , paved promenades , plush hotels , elegant boutiques , discothyques , casino , parks and gardens , and an Olympic-size public swimming pool .
+orig hypothesis (2):	Dinard does not have a public swimming pool .
+adv hypothesis (0):	Dinard wantto not have a public swimming pool .
+
+orig premise:	oh does it sure
+orig hypothesis (0):	oh , does it do that ? of course
+adv hypothesis (2):	oh , does it wo that ? of course
+
+orig premise:	The younger girl ran screaming to her .
+orig hypothesis (2):	The young girl stood frozen in her place .
+adv hypothesis (1):	The childish girl consisted frozen in her place .
+
+orig premise:	8 Follow-up to the May 8 , 2001 , Hearing Regarding the IRS Restructuring Act 's Goals and IRS Funding -LRB- GAO-01-903R , June 29 , 2001 -RRB- , and IRS Continued Improvement in Management Capability Needed to Support Long-Term Transformation
+orig hypothesis (2):	The IRS hearing on the Reconstruction Act and IRS Funding was in 2002 .
+adv hypothesis (0):	The IRS auditioning on the Reconstruction Act and IRS Funding was in 2002 .
+
+orig premise:	-LRB- sums up the millennium coverage from around the globe , and examines whether the Y2K preparations were a waste . -RRB-
+orig hypothesis (0):	-LRB- The millennium coverage from around the globe is summed up and examined -RRB- .
+adv hypothesis (2):	-LRB- The millenium coverage from around the globe is summed up and examined -RRB- .
+
+orig premise:	This testing of the marketplace may range from written or telephone contacts with knowledgeable federal and non-federal experts regarding similar or duplicate requirements and the results of any market test recently undertaken , to the more formal sources-sought announcements in pertinent publications -LRB- e.g.
+orig hypothesis (0):	This marketplace testing ranges from informal to formal surveys .
+adv hypothesis (1):	This marketing testing ranges from informal to formal surveys .
+
+orig premise:	-LRB- j -RRB- Promotional items a member receives as a consequence of using travel or transportation services procured by the United States or accepted pursuant to 31
+orig hypothesis (0):	A member can receive promotional items for traveling .
+adv hypothesis (2):	A mp can receive promotional items for traveling .
+
+orig premise:	yes uh i bought a uh Bristol thirty five five for my wife
+orig hypothesis (0):	My wife has a Bristol 355 , which I bought for her .
+adv hypothesis (1):	My wife enjoys a Bristol 355 , which I bought for her .
+
+orig premise:	She graduated in 1995 owing $ 58,000 in loans .
+orig hypothesis (1):	She had so much in student loans that she had trouble paying them back .
+adv hypothesis (0):	She possess appropriately multiple in graduates loan that she had trouble paying them back .
+
+orig premise:	Who ? asked Tommy .
+orig hypothesis (0):	Tommy did n't know , who .
+adv hypothesis (1):	Tommy gotten n't know , who .
+
+orig premise:	Companies that were foreign had to accept Indian financial participation and management .
+orig hypothesis (0):	Foreign companies had to take Indian money .
+adv hypothesis (1):	Foreign companies lasted to take Indian money .
+
+orig premise:	Postal Service data to define the relationship between costs and cost drivers .
+orig hypothesis (0):	Postal Service data is used to define the relationship between cost and drivers .
+adv hypothesis (2):	Postal Service dane is used to detects the relationship between cost and drivers .
+
+orig premise:	The most comfortable way to see these important Hoysala temples is to visit them on either side of an overnight stay at Hassan , 120 km -LRB- 75 miles -RRB- northwest of Mysore .
+orig hypothesis (1):	The best hotels in the region are in Hassan .
+adv hypothesis (2):	The best accomodation in the region are in Hassan .
+
+orig premise:	well the parts to to me i spent twenty two dollars on the parts
+orig hypothesis (1):	I spent 22 dollars on the parts , I think i got swindled .
+adv hypothesis (0):	I allotted 22 dollars on the parts , I think i got swindled .
+
+orig premise:	are uh very few and then the other people just plan it you know it 's like it 's like have you have have you ever seen the commercial like for Federal Express where the with uh the think tank
+orig hypothesis (0):	Federal Express has a commercial with a think tank .
+adv hypothesis (2):	Federal Express has a commercial with a conceptions tank .
+
+orig premise:	Watergate remains for many an unhealed wound , and Clinton 's critics delight in needling him with Watergate comparisons -- whether to Whitewater or Flytrap .
+orig hypothesis (2):	Clinton is the same person as Whitewater or Flytrap .
+adv hypothesis (0):	Clinton is the same personalities as Whitewater or Flytrap .
+
+orig premise:	Most of Slate will not be published next week , the third and last of our traditional summer weeks off .
+orig hypothesis (2):	Slate will carry on as usually , publishing every week .
+adv hypothesis (1):	Slate gonna carry on as usually , publishing every week .
+
+orig premise:	Yet , in the mouths of the white townsfolk of Salisbury , N.C. , it sounds convincing .
+orig hypothesis (0):	White townsfolk in Salisbury , N.C. think it sounds convincing .
+adv hypothesis (2):	White townsfolk in Salisbury , N.C. think it sounds cogent .
+
+orig premise:	5 -RRB- The Democrats are reaping what they sowed -LRB- after torturing Robert Bork , John Tower , and Clarence Thomas -RRB- .
+orig hypothesis (0):	After torturing Robert Bork , John Tower , and Clarence Thomas , the Democrats are getting what they deserved .
+adv hypothesis (2):	After torturing Robert Bork , John Tower , and Clarence Thomas , the Democrats are attains what they deserved .
+
+orig premise:	When Mr. Hastings and Mr. Lawrence came in yesterday evening , they found your mistress busy writing letters .
+orig hypothesis (0):	Your mistress wrote letters last night .
+adv hypothesis (1):	Your mistress wrote letters last midnight .
+
+orig premise:	Clearly , GAO needs assistance to meet its looming human capital challenges .
+orig hypothesis (1):	GAO will soon be suffering from a shortage of qualified personnel .
+adv hypothesis (2):	GAO will soon be torments from a shortage of qualified personnel .
+
+orig premise:	A politician connected with the home service of his parliamentary section 's boss , with the mobile phone number 0-609-3459812 , and known for his lack of sense of humor , did not take too well to a message from ` Admirer ' - ` Wishes shovel best ' .
+orig hypothesis (0):	Upon calling his boss 's home service , the politician did n't take too kindly to a message from an ` admirer ' .
+adv hypothesis (1):	Upon calling his boss 's home service , the politician did n't adopt too reverently to a notification from an ` admirer ' .
+
+orig premise:	Some are reported as not having been wanted at all .
+orig hypothesis (1):	Some are reported as not having been wanted at all due to breakage .
+adv hypothesis (0):	Some are identified as not having been wanted at all due to breakage .
+
+orig premise:	Good sir , Jon began .
+orig hypothesis (1):	Jon addressed the king .
+adv hypothesis (0):	Jon addressed the monarch .
+
+orig premise:	senior management oversight and approval ofRequired acquisition objectives and plans .
+orig hypothesis (2):	the referenced organization does not have a senior management division .
+adv hypothesis (1):	the referenced organization is not have a senior management division .
+
+orig premise:	Both professors soon realized that creating a new language was not an easy task .
+orig hypothesis (0):	Professors realized it was hard to make a new language .
+adv hypothesis (1):	Professors realized it was painful to make a new language .
+
+orig premise:	On the Use of Qualitative Methods in Policy A Review of Three Multi-site Studies .
+orig hypothesis (0):	There are 3 multi-site studies being reviewed
+adv hypothesis (1):	There are 3 multi-site studies being researched
+
+orig premise:	After considering comments of the Postal Service and other participants , the Commission found the proposal problematical , and declined to pursue it .
+orig hypothesis (0):	The Commission ultimately declined to pursue the proposal .
+adv hypothesis (2):	The Commission ultimately dwindled to pursue the proposal .
+
+orig premise:	He dismounted and Ca ` daan saw he was smaller than the rest .
+orig hypothesis (0):	He was shorter than the others .
+adv hypothesis (1):	He was youngest than the others .
+
+orig premise:	As the double-decker boats get ready to leave the pier , bells ring , the gangplank is raised , deckhands in blue sailor suits man the hawsers , and a couple of hundred commuters begin a seven-minute sightseeing tour .
+orig hypothesis (0):	You will know when the boats are ready to leave when the bells ring and the gangplank is raised .
+adv hypothesis (2):	You will know when the boats are allready to leave when the bells ring and the gangplank is raised .
+
+orig premise:	all they you know thinking that they 're going to have money and jobs and success and everything and then they then there is no jobs and they end up homeless and not knowing anybody and no money and it 's terrible
+orig hypothesis (0):	They think they 'll have money and success but end up with nothing .
+adv hypothesis (2):	They envisage they 'll have money and success but end up with nothing .
+
+orig premise:	Very simply .
+orig hypothesis (1):	Only a little explanation was needed .
+adv hypothesis (2):	Only a little alibis was needed .
+
+orig premise:	oh like if they say i i we just type it in like that
+orig hypothesis (1):	The typing is the easy part .
+adv hypothesis (0):	The typing is the facilitating portion .
+
+orig premise:	You will need-all of you will need-to be highly visible personally and professionally .
+orig hypothesis (1):	Everyone needs to maintain an open look to the public in order to attain trust .
+adv hypothesis (2):	Everyone needs to maintain an open look to the public in order to attain trusting .
+
+orig premise:	I guess he thought you 'd turned up your toes .
+orig hypothesis (0):	I am assuming that he guessed about your situation .
+adv hypothesis (2):	I am adoptions that he guessed about your lage .
+
+orig premise:	Perhaps San ` doro 's views had grown into him .
+orig hypothesis (0):	San ` doro might have impacted him .
+adv hypothesis (1):	San ` doro endangerment be impacted him .
+
+orig premise:	i 'm on i 'm in the Plano school system and living in Richardson and there is a real dichotomy in terms of educational and economic background of the kids that are going to be attending this school
+orig hypothesis (2):	The Plano school system only has children with poor intelligence .
+adv hypothesis (1):	The Plano school arrangements only has children with poor intelligence .
+
+orig premise:	Unfortunately , the magnet schools began the undoing of desegregation in Charlotte .
+orig hypothesis (0):	Desegregation was becoming disbanded in Charlotte thanks to the magnet schools .
+adv hypothesis (2):	Desegregation was becoming dissolved in Charlotte thanks to the magnet schools .
+
+orig premise:	But she 's not like her photo one bit .
+orig hypothesis (2):	She looks exactly how I pictured her and she 's exactly the girl in the photo .
+adv hypothesis (1):	She seems exactly how I pictured her and she 's exactly the girl in the photo .
+
+orig premise:	that does n't seem fair does it
+orig hypothesis (0):	That does n't seem fair .
+adv hypothesis (2):	That gonna n't seem fair .
+
+orig premise:	Yes , you 've done very well , young man .
+orig hypothesis (1):	You 've done better than anyone else .
+adv hypothesis (0):	You 've accomplished well than anyone else .
+
+orig premise:	Homes or businesses not located on one of these roads must place a mail receptacle along the route traveled .
+orig hypothesis (1):	The other roads are far too rural to provide mail service to .
+adv hypothesis (2):	The other roads are crucially too rural to provide mail service to .
+
+orig premise:	substitute my my yeah my kid 'll do uh four or five hours this week for me no problem
+orig hypothesis (0):	My kid will be doing a few hours for me .
+adv hypothesis (1):	My kid will be doing a few hour for me .
+
+orig premise:	The only comprehensible explanation is that the vocation that had burrowed in next to medicine had taken control , had insisted .
+orig hypothesis (0):	The only explanation is that the job that had been close to medicine had wrestled control of it .
+adv hypothesis (2):	The only explains is that the job that had been tightest to medicine had wrestled control of it .
+
+orig premise:	The day my deadline came , I got a business card .
+orig hypothesis (0):	I received a business card on the day of my deadline .
+adv hypothesis (1):	I recieved a businessmen card on the day of my deadline .
+
+orig premise:	Among the sights in Beziers are the ancient Eglise Saint Jacques and Eglise Sainte Madeleine , the 19th-century Halles -LRB- covered market -RRB- , and the massive Cathedrale Saint-Nazaire , from which there is a good view over the river valley .
+orig hypothesis (0):	There are many sights to see in Beziers , including the Cathedrale Saint-Nazaire .
+adv hypothesis (1):	There are countless sights to see in Beziers , including the Cathedrale Saint-Nazaire .
+
+orig premise:	and maybe we 'll run across each other again
+orig hypothesis (1):	We should do coffee if we ever meet again .
+adv hypothesis (2):	We should do macchiato if we ever meet again .
+
+orig premise:	Around the year 1400 , fighting over the island of Singapore drove the Srivijaya prince Parameswara to seek refuge up the peninsula coast with his orang laut pirate friends in their small fishing village of Melaka .
+orig hypothesis (0):	There was fighting over Singapore .
+adv hypothesis (1):	There was conflict over Singapore .
+
+orig premise:	Crosethe Rue de Rivoli to the Palais-Royal , built for Car?di?nal Richelieu as his Paris residence in 1639 , and originally named Palais-Cardinal .
+orig hypothesis (0):	The Crosethe Rue De Rivoli was built for Cardinal Richelieu to live in .
+adv hypothesis (1):	The Crosethe Rue De Rivoli was strengthens for Cardinal Richelieu to live in .
+
+orig premise:	Regulators may not be totally supportive of a more comprehensive business model because they are concerned that the information would be based on a lot of judgment and , therefore , lack of precision , which could make enforcement of reporting standards difficult .
+orig hypothesis (2):	Regulators will be fully supportive of this business model .
+adv hypothesis (1):	Regulators wish coming duly supportive of this business model .
+
+orig premise:	` Pardon me for saying so , but I really do n't think this is the time for an entree , ' I said .
+orig hypothesis (0):	This is n't the time for a main course I did n't think .
+adv hypothesis (1):	This is n't the time for a main estrada I did n't think .
+
+orig premise:	i think that 's great there 's a few places in Houston where they 're trying that out i do n't know if it 's the if they 've done it citywide yet or not where they have the color coded uh bags and uh bins
+orig hypothesis (0):	There are a couple places in Houston where it 's being tried .
+adv hypothesis (2):	There are a twinning places in Houston where it 's being tried .
+
+orig premise:	Most large hotels will have a floorshow featuring music and dance , including a voluptuous belly-dancer , who will introduce the audience to the art of gyrating Egyptian style .
+orig hypothesis (1):	The audience 's favorite feature of the floor shows is always the belly-dancer .
+adv hypothesis (2):	The audience 's fave feature of the floor shows is always the belly-dancer .
+
+orig premise:	The Balanced Scorecard Institute is a web clearinghouse for managers to exchange information , ideas , and lessons learned in building strategic management systems using the balanced scorecard approach .
+orig hypothesis (2):	The Balanced Scorecard has recently closed due to a lack of interest .
+adv hypothesis (1):	The Balanced Scorecard has recently latched due to a lack of valued .
+
+orig premise:	The man shifted slightly and cut the spear out of the air .
+orig hypothesis (2):	The man watched motionlessly as the spear fell .
+adv hypothesis (1):	The guys watched motionlessly as the spear fell .
+
+orig premise:	They look just as good as new . '' They cut them carefully and ripped away the oilskin .
+orig hypothesis (0):	The oilskin was ripped away by them .
+adv hypothesis (2):	The oilskin was torn away by them .
+
+orig premise:	profit rather
+orig hypothesis (2):	Losses rather .
+adv hypothesis (0):	Losses equally .
+
+orig premise:	Barney Frank , D-Mass. , will log some of the best sound bites , while Rep.
+orig hypothesis (1):	Barney Frank is well-known for representing his constituents .
+adv hypothesis (2):	Barney Frank is well-known for symbolise his constituents .
+
+orig premise:	My article does not say or imply that real earnings growth only reflects retentions and that dividend growth must be zero or that all valuation techniques are out the window for firms that do n't pay dividends .
+orig hypothesis (0):	My article does n't say or imply that real earnings growth reflects only retentions and that dividend growth must be zero or that valuation techniques are unused for firms which do n't pay dividends .
+adv hypothesis (1):	My article does n't say or imply that real earnings growth showcases only retentions and that dividend growth must be zero or that ratings techniques are unused for businessmen which do n't pay dividends .
+
+orig premise:	British action would n't have mattered .
+orig hypothesis (0):	It would n't have mattered if Britain got involved .
+adv hypothesis (1):	It would n't have mattered if Britain attains involved .
+
+orig premise:	This usage points to yadda yadda yadda 's larger social It suggests that an ever-larger percentage of the content of everyday communication can be correctly anticipated -- probably owing in part to the sheer repetition of words and arguments in the various public media .
+orig hypothesis (2):	It says a smaller percentage of the content of communication can be expected .
+adv hypothesis (0):	It says a smaller percentage of the content of disclosed can be expected .
+
+orig premise:	Under the budget deal , by 2002 , national defense will consume about $ 273 billion a year compared with $ 267 billion now .
+orig hypothesis (0):	The national defense budget will increase by 6 billion dollars by 2002 .
+adv hypothesis (1):	The national defense budget will improve by 6 billion dollars by 2002 .
+
+orig premise:	But in all probability the girl will have entirely forgotten the intervening period , and will take up life where she left off at the sinking of the Lusitania . ''
+orig hypothesis (0):	The girl will have most likely forgotten that period .
+adv hypothesis (1):	The girl gonna have most likely forgotten that period .
+
+orig premise:	Instead , we could recommend that , compared with other settings , the prevalence of alcohol problems among ED patients makes it worthy of careful consideration .
+orig hypothesis (1):	The vast majority of ED patients also suffer from alcohol dependency issues .
+adv hypothesis (2):	The vast hugest of ED patients also suffer from alcohol dependency issues .
+
+orig premise:	A niche incumbent might provide delivery less frequently or to a subset of possible stops .
+orig hypothesis (0):	It might be possibly to make less frequent deliveries .
+adv hypothesis (1):	It endangerment be possibly to make less everyday deliveries .
+
+orig premise:	Territorial rights , in the form of a deck chair , can be assured for a nominal sum .
+orig hypothesis (2):	You have no territorial rights with a deck chair .
+adv hypothesis (0):	You enjoy no earthly rights with a deck chair .
+
+orig premise:	The H-2A worker must depart the country and is subject to deportation for failing to do so .
+orig hypothesis (1):	The H-2A worker committed a crime .
+adv hypothesis (2):	The H-2A worker committed a criminality .
+
+orig premise:	Penrith and Blencathra are also Celtic names , established during this early period of settlement .
+orig hypothesis (2):	Penrith and Blencathra are names which go back to ancient Rome .
+adv hypothesis (0):	Penrith and Blencathra are names which go back to olden Rome .
+
+orig premise:	New York Times columnist Bob Herbert asserts that managed care has bought Republican votes and that patients will die as a result .
+orig hypothesis (2):	Managed care had nothing to do with the Republican voting .
+adv hypothesis (1):	Managed care haya nothing to do with the Republican voting .
+
+orig premise:	In other cases , we must rely on survey approaches to estimate WTP , usually through a variant of the contingent valuation approach , which generally involves directly questioning respondents for their WTP in hypothetical market situations .
+orig hypothesis (0):	Surveys can estimate WTP by questioning respondents .
+adv hypothesis (1):	Surveys can calculus WTP by scrutinizing respondents .
+
+orig premise:	The majority of the agencies that responded appreciated GAO 's initiative to develop the protocols and said that they were comprehensive and provided a framework for meaningful communication .
+orig hypothesis (2):	The agencies that responded despised the initiative by GAO .
+adv hypothesis (1):	The charity that overreaction resented the strides by GAO .
+
+orig premise:	This formal Review Process guarantees representatives of every designated state planning body the right to direct communication with LSC officials at the highest level in seeking reconsideration of an LSC decision .
+orig hypothesis (2):	The formal Review Process guarantees that not a single representative of any designated state planning body the right to direct communication .
+adv hypothesis (1):	The formal Review Process guarantees that not a mere portraying of any specified governmental project body the right to direct communication .
+
+orig premise:	The agencies requesting guidance on internal controls when implementing fast pay have also designed procedures to verify receipt and acceptance of goods ordered on an afterthefact sampling basis rather than on the basis of a 100percent postpayment verification as is traditionally done .
+orig hypothesis (1):	The sampling basis method is more efficient and cost effective .
+adv hypothesis (0):	The swabs basis method is more efficient and cost reasonable .
+
+orig premise:	God i 'm envious
+orig hypothesis (0):	Lord , I 'm envious .
+adv hypothesis (2):	Lord , I 'm jelous .
+
+orig premise:	They 're both excited about it ...
+orig hypothesis (0):	They 're excited .
+adv hypothesis (2):	They 're psyched .
+
+orig premise:	Views from Implementation Research in Education .
+orig hypothesis (2):	Lack of views on research in education
+adv hypothesis (1):	Lack of viewed on research in education
+
+orig premise:	Sandstone and granite were the materials used to build the Baroque church of Bom Jesus , famous for its casket of St. Francis Xavier 's relics in the mausoleum to the right of the altar .
+orig hypothesis (2):	St. Francis Xavier 's relics were never recovered , unfortunately .
+adv hypothesis (1):	St. Francis Xavier 's artifacts were never recoup , sadly .
+
+orig premise:	We need to look at the implications that these differing roles have for a range of issues , such as SES core competencies , performance standards , recruitment sources , mobility , and training and development programs .
+orig hypothesis (0):	It is very important for us to consider the implications of the these distinct roles on the issues .
+adv hypothesis (1):	It is very vast for us to consider the implications of the these distinct roles on the issues .
+
+orig premise:	These 900 hectares -LRB- 2,224 acres -RRB- of parkland on the western edge of the city constitute one of Baron Haussmann 's happier achievements .
+orig hypothesis (0):	One of Baron Haussmann 's happier achievements is the large area of parkland on the western edge of the city .
+adv hypothesis (2):	One of Baron Haussmann 's happier achievements is the gros area of parkland on the western edge of the city .
+
+orig premise:	All requests to provide live testimony at one of the two public hearings were granted .
+orig hypothesis (0):	All request by people seeking to provide live testimony were granted .
+adv hypothesis (1):	All request by beings tempting to provide live testimony were granted .
+
+orig premise:	well the difficulty is is if you look in the Old Testament and and the numbers of places that uh the Lord went out and just simply struck down and that was part of the problem when they went into the Promised Land that they that they uh they did n't destroy everybody and that that 's
+orig hypothesis (2):	There was no problem when they went into the Promised Land .
+adv hypothesis (0):	There was no matter when they went into the Promised Land .
+
+orig premise:	right right they left a woman and a child or the cat the sheep yeah
+orig hypothesis (1):	They were merciful in this regard , only taking the men as slaves .
+adv hypothesis (2):	They were magnanimous in this regard , only taking the men as slaves .
+
+orig premise:	The important thing is to realize that it 's way past time to move it .
+orig hypothesis (2):	It can not be moved , now or ever .
+adv hypothesis (1):	It can not constituted migrated , now or ever .
+
+orig premise:	If you still want to join , it might be worked .
+orig hypothesis (0):	You can try to do it if you 'd like to join .
+adv hypothesis (2):	You can persecute to do it if you 'd like to joins .
+
+orig premise:	The Government does not sacrifice anything of value in exchange and the entity that forfeits the property does not receive anything of value .
+orig hypothesis (0):	The Government does not provide compensation for forfeited property .
+adv hypothesis (1):	The Government does not provide compensation for outof property .
+
+orig premise:	To provide a useful perspective on how alternative levels of national saving affect future living standards , we also compared our simulation results to a historical benchmark .
+orig hypothesis (0):	National saving affect living standards according to our simulation results and a historical data set .
+adv hypothesis (1):	National saving affect living regulations relying to our simulator results and a historical databases set .
+
+orig premise:	In addition , because funding is secured on an
+orig hypothesis (2):	In addition , because funding is n't secured on an
+adv hypothesis (0):	In addition , because funding is n't guaranteed on an
+
+orig premise:	yeah i it just totally ridiculous i mean the Israeli 's could have fixed the whole problem years ago if they just sent sent their guys in there and killed Saddam
+orig hypothesis (1):	They Israelis did n't do it because they knew they could save money getting the States to do it .
+adv hypothesis (2):	They Israelis did n't do it because they knew they could economize money attains the States to do it .
+
+orig premise:	uh we 've gotten a little Atari computer uh husband describes it as a a computer with training wheels
+orig hypothesis (1):	We can play certain games on the Atari , which we enjoy .
+adv hypothesis (2):	We can jeu certain games on the Atari , which we enjoy .
+
+orig premise:	Do n't you remember ? Today we 're going to auntie Basia 's birthday party . '
+orig hypothesis (0):	We are going to Aunt Basia 's birthday party today , remember ?
+adv hypothesis (2):	We are abandoning to Aunt Basia 's birthday party today , remember ?
+
+orig premise:	Grantees statistically sample the cases closed in the previous year to determine if the sampled cases generally meet the requirements for reporting cases to LSC .
+orig hypothesis (2):	Grantees are not going to pay attention to cases closed in the last year .
+adv hypothesis (1):	Grantees are not going to afford attention to cases closes in the last year .
+
+orig premise:	NOx can be transported long distances and contribute to ozone many hundreds of miles from its source .
+orig hypothesis (0):	NOx moves hundreds of miles from its starting point to for ozone .
+adv hypothesis (2):	NOx moves hundreds of miles from its starting kok to for ozone .
+
+orig premise:	On the left of the entrance ramp is the open space once occupied by the Temple of Athena , close to which are the remains of the Pergamene library .
+orig hypothesis (0):	The Temple of Athena can no longer be seen , but the remains of the Pergamene library still exist nearby .
+adv hypothesis (1):	The Temple of Athena can no longer be seen , but the remains of the Pergamene library still nowadays nearby .
+
+orig premise:	Further , given the dynamic environment agencies face , employees need incentives , training , and support to help them continually learn and adapt .
+orig hypothesis (2):	Over time agencies faced rigid environments where nothing changed .
+adv hypothesis (1):	Over time organizations detected rigid circles where nothing weathered .
+
+orig premise:	Although claims data provide the most accurate information about health care use , ensuring adequate follow-up for purposes of obtaining information from patient self-report is important because many people do not report alcohol-related events to insurance compa-nies .
+orig hypothesis (1):	The insurance companies want to reduce medical payments by following-up to ensure patient was sober at the time of incident and intoxication may lead to a claim denial on reimbursement for medical expenses .
+adv hypothesis (0):	The insurance corporations aspires to curtailed medical instalment by following-up to ensure patient was sober at the time of incident and intoxication may lead to a claim denial on reimbursement for medical expenses .
+
+orig premise:	Regulation and the Nature of Postal Delivery Services , Ed .
+orig hypothesis (0):	There is regulation of the postal delivery service .
+adv hypothesis (2):	There is regs of the postal delivery service .
+
+orig premise:	The great breathtaking Italian adventure remains the road .
+orig hypothesis (2):	The road is dull , and best to be avoided .
+adv hypothesis (1):	The freeways is frustrating , and best to se avert .
+
+orig premise:	The day my deadline came , I got a business card .
+orig hypothesis (1):	The deadline to accept my promotion arrived and I got a business card with my new title .
+adv hypothesis (0):	The deadline to accept my promotion arrived and I attained a business card with my new title .
+
+orig premise:	at least i 'm going to give it a try cause you can see i mean the oil filters i mean you can touch it it 's right there
+orig hypothesis (0):	It seems like it 's worth trying to get the oil filter out .
+adv hypothesis (1):	It seems like it 's priceless trying to get the oil filter out .
+
+orig premise:	Tommy Thompson of Wisconsin and Mayor Rudolph Giuliani of New York , the conservative vanguard on the issue , show no inclination to exploit research that says , in effect , Why care about day-care quality ?
+orig hypothesis (1):	Thompson and Giuliani might care about day cares .
+adv hypothesis (2):	Thompson and Giuliani likelihood care about day cares .
+
+orig premise:	The museum is well laid out and the perfect size for relaxing away a couple of hours on a wet day .
+orig hypothesis (0):	The museum is well designed and just the right size for taking up several hours on a wet day .
+adv hypothesis (1):	The museum is properly engineered and just the right size for taking up several hours on a wet day .
+
+orig premise:	and the same is true of the drug hangover you know if you
+orig hypothesis (2):	It 's nothing like a drug hangover .
+adv hypothesis (1):	It 's nothing like a medecine remnants .
+
+orig premise:	The final aim of screening must be improved outcomes through referral and counseling .
+orig hypothesis (0):	Screening needs to try to improve outcomes .
+adv hypothesis (2):	Screening gotta to try to improve outcomes .
+
+orig premise:	Component modularization and prefabrication off-site can reduce the amount of time cranes are needed on a site , as well as provide opportunities to reduce project schedules and construction costs and to concentrate jobs locally at the prefabrication facility .
+orig hypothesis (0):	Cranes are needed on-site for a shorter time when prefabrication and modularization are done beforehand .
+adv hypothesis (1):	Cranes are forced on-site for a smallest time when prefabrication and modularization are done beforehand .
+
+orig premise:	No one was there , no bones at all .
+orig hypothesis (2):	There were many bones in a pile .
+adv hypothesis (1):	There were miscellaneous skeletal in a pile .
+
+orig premise:	California is high
+orig hypothesis (1):	California is hyped up !
+adv hypothesis (0):	California is hoopla up !
+
+orig premise:	Jamaican music ska and , especially , reggae has since the 1970s been exported and enjoyed around the world .
+orig hypothesis (1):	Reggae is the most popular music style in Jamaica .
+adv hypothesis (2):	Reggae is the most moderne music style in Jamaica .
+
+orig premise:	Well ? cried Tommy eagerly .
+orig hypothesis (2):	Tommy did n't speak .
+adv hypothesis (1):	Tommy had n't schmooze .
+
+orig premise:	i i have some feelings about it in the sense that i feel if a person is guilty beyond a reasonable doubt and it 's a really heinous crime i feel like the Bible says an eye for an eye
+orig hypothesis (0):	I have strong views on it when I think the crime merits the punishment .
+adv hypothesis (2):	I fi strong views on it when I think the crime merits the punishment .
+
+orig premise:	But you would not trust me . ''
+orig hypothesis (0):	You have no trust when it comes to me .
+adv hypothesis (1):	You got no trust when it comes to me .
+
+orig premise:	Expectations that the ANC would oversee land reform -- returning land seized during apartheid 's forced migrations -- and wealth redistribution have not been met .
+orig hypothesis (2):	The ANC would not be in charge of land reform .
+adv hypothesis (0):	The ANC would not be in charge of lands reform .
+
+orig premise:	There are a number of these on Chatham Road South and around Cameron Street in Tsim Sha Tsui .
+orig hypothesis (2):	These can not only be found anywhere in Tsim Sha Tsui
+adv hypothesis (1):	These can not only be finds anywhere in Tsim Sha Tsui
+
+orig premise:	Kom Ombo is an unusual temple in that it is dedicated to two gods .
+orig hypothesis (0):	A peculiar temple , Kom Ombo is devoted to two gods .
+adv hypothesis (2):	A peculiar temple , Kom Ombo is incarnated to two gods .
+
+orig premise:	Initiatives that we suggested for the CIO Council to consider
+orig hypothesis (0):	We suggested initiatives to the CIO council
+adv hypothesis (2):	We proposed attempts to the CIO council
+
+orig premise:	Increased saving by current generations would expand the nation 's capital stock , allowing future generations to better afford the nation 's retirement costs while also enjoying higher standards of living .
+orig hypothesis (0):	Current generations ' increased saving would expand the nation 's capital stock , allowing future generations to better afford the nation 's retirement costs while also enjoying higher standards of living .
+adv hypothesis (2):	Current generations ' increased saving would expand the nation 's capital stockpiled , allowing future generations to better afford the nation 's retirement costs while also enjoying higher standards of living .
+
+orig premise:	Then he shrugged .
+orig hypothesis (1):	He was n't sure what to say .
+adv hypothesis (0):	He was n't certain what to say .
+
+orig premise:	This data is used to model the behavior of access costs .
+orig hypothesis (1):	This data is used to model the behavior of access costs and is the standard model worldwide
+adv hypothesis (2):	This information is used to formers the behavior of access costs and is the standard model worldwide
+
+orig premise:	At the western end of Cowgate -LRB- where it meets Holyrood Road -RRB- , you will see one of the few remaining sections of Edinburgh 's old city wall -LRB- Flodden Wall -RRB- , built following the Lang Siege of the 1570s .
+orig hypothesis (1):	Flodden Wall was built by the townspeople to protect against further invasion .
+adv hypothesis (2):	Flodden Wall was built by the townies to protect against further invasion .
+
+orig premise:	Through the opt-out approach , Texas attorneys contributed $ 1 million this year , doubling 2001 contributions .
+orig hypothesis (0):	This year , Texas attorneys have contributed $ 500,000 more than in the previous year .
+adv hypothesis (2):	This yr , Texas attorneys have contributed $ 500,000 more than in the previous year .
+
+orig premise:	Anyway , she was found dead this morning . ''
+orig hypothesis (2):	She was still alive .
+adv hypothesis (0):	She was however alive .
+
+orig premise:	The formation of a single statewide program was adopted to breathe life into a single program that will provide meaningful access to high quality legal services , in the pursuit of justice for as many low-income people throughout Colorado as possible .
+orig hypothesis (0):	The program makes it so that low-income plaintiffs can find legal representation .
+adv hypothesis (2):	The program makes it so that low-income inquirer can find legal representation .
+
+orig premise:	For the next two centuries Aelia Capitolina enjoyed an innocuous history .
+orig hypothesis (1):	Aelia Capitolina enjoyed an innocuous history by staying off the maps of Romans and other empires .
+adv hypothesis (2):	Aelia Capitolina esteemed an tasteless historian by staying off the maps of Romans and other empires .
+
+orig premise:	now that 's a good idea
+orig hypothesis (0):	The idea is a good one .
+adv hypothesis (2):	The idea is a bestest one .
+
+orig premise:	As the double-decker boats get ready to leave the pier , bells ring , the gangplank is raised , deckhands in blue sailor suits man the hawsers , and a couple of hundred commuters begin a seven-minute sightseeing tour .
+orig hypothesis (2):	The double decker boats are all out of service , so they never leave the pier .
+adv hypothesis (1):	The duplicated decker boating are all out of serves , after they never vacation the docks .
+
+orig premise:	From his second sight Jon saw San ` doro grappling with a much larger man .
+orig hypothesis (0):	San ` doro was fighting .
+adv hypothesis (1):	San ` doro was fought .
+
+orig premise:	yeah it 's definitely a way out of the way where where as
+orig hypothesis (1):	I was able to find my way out of the corn maze
+adv hypothesis (2):	I was unable to find my way out of the corn maze
+
+orig premise:	In fiscal year 2000 , it reported estimated improper Medicare Fee-for-Service payments of $ 11 .
+orig hypothesis (0):	The payments were improper .
+adv hypothesis (1):	The paycheque were improper .
+
+orig premise:	The best beach in Europe ' at least that 's the verdict of its regulars .
+orig hypothesis (0):	Regular beachgoers say that it is the best in Europe .
+adv hypothesis (2):	Regular beachgoers say that it is the bestest in Europe .
+
+orig premise:	A portion of the nation 's income , in turn , is saved , allowing for additional investment in domestic factories , equipment , and other forms of capital that workers use to produce more goods and services or for investment abroad .
+orig hypothesis (0):	The nation 's income is divided into portions .
+adv hypothesis (2):	The nation 's income is separated into portions .
+
+orig premise:	Because of the casualties , Lind says , the United States would eventually have had to leave Vietnam anyway .
+orig hypothesis (0):	Lind said the US would have had to leave Vietnam eventually anyways .
+adv hypothesis (1):	Lind said the US would have acres to leave Vietnam eventually anyways .
+
+orig premise:	For the next two centuries Aelia Capitolina enjoyed an innocuous history .
+orig hypothesis (2):	The next two centuries spelled disaster for Aelia Capitolina which was constantly harassed .
+adv hypothesis (1):	The next two ages spelled disaster for Aelia Capitolina which was constantly harassed .
+
+orig premise:	Huntington -- like Buchanan -- claims not to be a cultural He is defending the integrity of all cultures , theirs and ours .
+orig hypothesis (0):	Huntington and Buchanan both defend others cultures as well as their own .
+adv hypothesis (2):	Huntington and Buchanan both defend others cultures as bene as their own .
+
+orig premise:	The Balanced Scorecard Institute is a web clearinghouse for managers to exchange information , ideas , and lessons learned in building strategic management systems using the balanced scorecard approach .
+orig hypothesis (0):	Managers can exchange ideas and information about management systems on the Balanced Scorecard Institute website .
+adv hypothesis (1):	Managers can stock idea and information about management systems on the Balanced Scorecard Institute website .
+
+orig premise:	Venice and its Repubblica Serena rebounded to turn to the mainland , extending its Veneto territory from Padua across the Po valley as far as Bergamo .
+orig hypothesis (0):	Venice had hopes of expanding its territory .
+adv hypothesis (2):	Venice haya hopes of expanding its territory .
+
+orig premise:	i think that yeah i think and i i think that 's real important
+orig hypothesis (2):	`` I think that it 's not something we should be bothered with . ''
+adv hypothesis (1):	`` I thinking that it 's not something we must constitute bothered with . ''
+
+orig premise:	and oh okay and then went to Colorado
+orig hypothesis (0):	After that I left for Colorado .
+adv hypothesis (1):	After that I quit for Colorado .
+
+orig premise:	and the nurses are n't no see you have to pay that
+orig hypothesis (0):	You have to pay for that .
+adv hypothesis (2):	You ha to pay for that .
+
+orig premise:	and you back in you know and or just pull into your spot and uh some you can rent by the year some you can rent daily or nightly or by the week or whatever
+orig hypothesis (2):	The only way of renting them is monthly .
+adv hypothesis (1):	The only way of renters them is monthly .
+
+orig premise:	Blessed with preternatural gregariousness , good humor , and a love of attention , he 's been tireless about pursuing both celebrity and the cause of popular history ever since .
+orig hypothesis (0):	He was very outgoing and extroverted , as well as nice to be around .
+adv hypothesis (1):	He was very exit and extroverted , as well as nice to be around .
+
+orig premise:	GAO also issued over 160 reports detailing specific findings and made over 100 recommendations to agencies and to the President 's Council on Year 2000 Conversion for improving the government 's readiness .
+orig hypothesis (0):	Improving government readiness was aided by the GAO who issued a good amount of reports .
+adv hypothesis (1):	Improving government readiness was aides by the GAO who issued a good amount of reports .
+
+orig premise:	Happily , there 's still a lot that has n't yet been adulterated on the two islands ` meaning that visitors also have a choice .
+orig hypothesis (1):	Visitors can hop between the two islands using the local ferry service .
+adv hypothesis (2):	Visitors can hops between the two islands using the local ferry service .
+
+orig premise:	and so i have really enjoyed that but but there are i do have friends that watch programs like they want to see a particular program and they are either home watching it or definitely recording it they have some programs that they wo n't miss
+orig hypothesis (2):	Your friends do n't watch TV , do they ?
+adv hypothesis (1):	Your friends make n't vigilance TV , do they ?
+
+orig premise:	oh yeah IBM uh i mean uh a lot of people use human factors folks but IBM is what i 'm looking at right now
+orig hypothesis (0):	Tons of people think about human factors but I 'm looking at IBM right now .
+adv hypothesis (1):	Tons of people ideas about human factors but I 'm staring at IBM right now .
+
+orig premise:	What a lot of bottles ! I exclaimed , as my eye travelled round the small room .
+orig hypothesis (1):	They had drank too many beers .
+adv hypothesis (2):	They had drank too mucho beers .
+
+orig premise:	and my and my part-time work you know it 's not our the restaurant our favorite restaurant in the town of Salisbury where actually we live you know where my where i 'll return to my job or whatever we can normally eat out for um under fourteen dollars
+orig hypothesis (1):	My first part time job was in a restaurant in Salisbury where you could eat out for under $ 14 .
+adv hypothesis (0):	My first portion time job was in a restaurant in Salisbury where you could eat out for under $ 14 .
+
+orig premise:	The most comfortable courses are in the cooler hill stations , notably Cameron Highlands and Fraser 's Hill .
+orig hypothesis (2):	The hill stations were too cold for a course .
+adv hypothesis (1):	The hill plants were too cold for a curriculum .
+
+orig premise:	taken up by the oh okay oh so you know well that 's i had wondered sometimes i knew that there was a lot of a lot of effort and a lot of work went into a lot of that and i just wondered if if it lasted and if it took you know like yeah
+orig hypothesis (1):	It cost a lot of money to put forth all that effort .
+adv hypothesis (0):	It expense a lot of money to put forth all that effort .
+
+orig premise:	For more than 26 centuries it has witnessed countless declines , falls , and rebirths , and today continues to resist the assaults of brutal modernity in its time-locked , color-rich historical center .
+orig hypothesis (2):	The historical center is quite new , and rather bland .
+adv hypothesis (1):	The historical center is quite new , and rather dull .
+
+orig premise:	But the door was locked ? '' These exclamations burst from us disjointedly .
+orig hypothesis (2):	`` The door was unlocked ! '' , we all exclaimed coherently .
+adv hypothesis (1):	`` The gateway was unfreeze ! '' , we all exclaimed coherently .
+
+orig premise:	The house fell into ruin after emancipation , when fear of the witch 's influence drove the plantation 's slaves away .
+orig hypothesis (2):	The slaves did n't believe in witches , and stayed on the plantation .
+adv hypothesis (1):	The slaves did n't believe in witches , and adjourned on the plantation .
+
+orig premise:	Two of them saw Thorn coming .
+orig hypothesis (0):	Thorn was seen coming by two of them .
+adv hypothesis (1):	Thorn was seen inbound by three of them .
+
+orig premise:	This data is used to model the behavior of access costs .
+orig hypothesis (0):	This data is used to model the behavior of access costs .
+adv hypothesis (2):	This data is used to formers the behavior of access costs .
+
+orig premise:	The Throne Room is one of a series of apartments built during the reign of Charles II , though it was originally designed as a guard room that screened entrants to the private chambers beyond .
+orig hypothesis (1):	The Throne Room is available for tours daily .
+adv hypothesis (2):	The Throne Room is disposable for tours daily .
+
+orig premise:	Perhaps all we can say of great acting is that it involves assimilation rather than accumulation , that the performer is n't so much a surrogate as a vessel .
+orig hypothesis (0):	Great actors can assimilate themselves into their roles .
+adv hypothesis (1):	Great actresses can assimilate themselves into their roles .
+
+orig premise:	And it was exactly on such a day , as this carefully selected Wednesday -LRB- which blushed from this distinction -RRB- , that the mini-anti-aggressor was going to make the biggest of impressions .
+orig hypothesis (0):	The mini-anti-aggressor is going to make an impression on Wednesday .
+adv hypothesis (2):	The mini-anti-aggressor is abandoning to making an impression on Wednesday .
+
+orig premise:	This does n't look good .
+orig hypothesis (1):	This looks really bad but I have a plan .
+adv hypothesis (2):	This looks really mala but I have a plan .
+
+orig premise:	uh it 's in Georgia it 's yeah it 's right outside of Macon and and it 's just a i like the way that i like the way that idea of the south is
+orig hypothesis (0):	It 's located just outside of Macon in Georgia .
+adv hypothesis (1):	It 's founded just beyond of Macon in Georgia .
+
+orig premise:	The much-previewed profile of Michael Huffington reveals that he is -- surprise , surprise -- gay .
+orig hypothesis (0):	Michael Huffington is gay .
+adv hypothesis (2):	Michael Huffington is poof .
+
+orig premise:	What have we for lunch ?
+orig hypothesis (0):	What are we going to eat for lunch ?
+adv hypothesis (1):	What are we going to dinners for lunch ?
+
+orig premise:	and i do n't think they 've repainted since
+orig hypothesis (2):	I think they repainted it a few times now .
+adv hypothesis (1):	I think they repainting it a few times now .
+
+orig premise:	He grimaced at his own doubts .
+orig hypothesis (1):	He felt bad for doubting her .
+adv hypothesis (0):	He felt amiss for doubting her .
+
+orig premise:	Jon twisted the man 's wrist .
+orig hypothesis (1):	Jon grabbed the man and yelled at him .
+adv hypothesis (2):	Jon grabbed the man and cheered at him .
+
+orig premise:	The information provided in this guide is current as of the date of this publication .
+orig hypothesis (1):	The guide will be republished again in six months .
+adv hypothesis (2):	The guide will be republished again in eight mois .
+
+orig premise:	' I do n't suppose you could forget I ever said that ? '
+orig hypothesis (0):	It 's not likely you 'll forget that , right ?
+adv hypothesis (2):	It 's not potential you 'll overlooks that , right ?
+
+orig premise:	As the budgets , functions , and points of service of many government programs devolve to state and local government , private entities and nonprofit organizations , and other third parties , it may become harder for GAO to obtain the records it needs to complete audits and evaluations .
+orig hypothesis (2):	It has become very easy for GAO to procure the records for audits .
+adv hypothesis (1):	It enjoys become very easy for GAO to procure the embossed for ticked .
+
+orig premise:	They have found a new object of their affection .
+orig hypothesis (1):	They love their new sports car .
+adv hypothesis (2):	They luv their new sports car .
+
+orig premise:	Clearly , GAO needs assistance to meet its looming human capital challenges .
+orig hypothesis (1):	The GAO has been receiving so many applications from qualified job seekers that they have had to raise the bar in hiring new employees .
+adv hypothesis (2):	The GAO has been receiving so mucho applications from qualified job seekers that they have had to raise the bar in hiring new employees .
+
+orig premise:	Possible Clinton had sex with her , but it was n't rape .
+orig hypothesis (0):	Clinton may have had intercourse with a woman .
+adv hypothesis (1):	Clinton may have had coitus with a woman .
+
+orig premise:	The man who had once come up with a has-been corner skit , in which , as Zmuda recalls , forgotten performers would be sent out to flounder in front of an audience ...
+orig hypothesis (2):	The man designed a skit where popular performers went out and enjoyed total success in front of a crowd .
+adv hypothesis (1):	The man designed a skit where popular performers went out and liked total success in front of a crowd .
+
+orig premise:	He 's a bad lot .
+orig hypothesis (1):	He has a wife
+adv hypothesis (2):	He has a marries
+
+orig premise:	The fancifully decorated Macau Palace , a floating casino moored on the western waterfront , is fitted out with gambling tables , slot machines -LRB- known locally as hungry tigers -RRB- and , for hungry humans , a restaurant .
+orig hypothesis (2):	Macau Palace is found on the eastern waterfront .
+adv hypothesis (0):	Macau Palace is found on the east promenade .
+
+orig premise:	Initial demand for land in the New Town was not spectacular ; in fact , incentives had to be offered to entice buyers .
+orig hypothesis (0):	Buyers were offered incentives to persuade them to buy land in New Town .
+adv hypothesis (2):	Buyers were affords bonuses to persuade them to buy land in New Town .
+
+orig premise:	you know they ca n't really defend themselves like somebody grown uh say my age you know yeah
+orig hypothesis (2):	They can defend themselves easily .
+adv hypothesis (0):	They can defending themselves easily .
+
+orig premise:	Although I 'm certain it amused Scott Shuger -LRB- an amusing guy , to judge by the terrific Today 's Papers -RRB- to join the ranks of those who have publicly disparaged Linda Tripp , the fact remains that nothing in his piece , , reflects at all on Tripp herself .
+orig hypothesis (0):	I know it amused Shuger to join the people ripping Linda Tripp apart .
+adv hypothesis (2):	I know it giggled Shuger to join the people ripping Linda Tripp apart .
+
+orig premise:	A button on the Chatterbox page will make this easy , so please do join in .
+orig hypothesis (0):	There is a button on the page that is easy to use .
+adv hypothesis (1):	There is a buds on the page that is sheer to use .
+
+orig premise:	it sure will well good to talk to
+orig hypothesis (0):	That 's true , and it was nice chatting .
+adv hypothesis (1):	That 's true , and it was neat chatting .
+
+orig premise:	` The autopilot 's damaged - will the train still slow down ? '
+orig hypothesis (0):	` Will the train slow down ? The autopilot is damaged ' .
+adv hypothesis (1):	` Will the train deceleration down ? The autopilot is damaged ' .
+
+orig premise:	The word itself , tapa , is translated as lid and derives from the old custom of offering a bite of food along with a drink , the food being served on a saucer sitting on top of the glass like a lid .
+orig hypothesis (0):	Tapa is an old word that means a bite of food .
+adv hypothesis (2):	Tapa is an old word that means a stung of food .
+
+orig premise:	We need to look at the implications that these differing roles have for a range of issues , such as SES core competencies , performance standards , recruitment sources , mobility , and training and development programs .
+orig hypothesis (1):	These differing roles may have disastrous implications on performance standards .
+adv hypothesis (2):	These differing idiosyncrasies may have disastrous implications on performance standards .
+
+orig premise:	David Cope , a professor of music at the University of California at Santa Cruz , claims to have created a 42 nd Mozart symphony .
+orig hypothesis (0):	Music Professor David Cope says he has created Mozart 's 42nd symphony .
+adv hypothesis (2):	Music Professor David Cope affirms he has created Mozart 's 42nd symphony .
+
+orig premise:	Major journeys from one part of the country to another , say , from Milan to Rome or down to Naples , is most enjoyed by train buffs and travelers with plenty of time , patience , and curiosity .
+orig hypothesis (1):	It takes eight hours to get from Milan to Naples by train .
+adv hypothesis (2):	It takes eight hrs to get from Milan to Naples by train .
+
+orig premise:	Take a picnic and enjoy an alfresco lunch at this spectacular spot .
+orig hypothesis (1):	Be sure to take bug spray and sun tan lotion .
+adv hypothesis (2):	Be hopeful to take bug spout and sun tan lotion .
+
+orig premise:	There are also ferries to Discovery Bay .
+orig hypothesis (0):	Discovery Bay has ferries going to it .
+adv hypothesis (1):	Discovery Bay has tubs going to it .
+
+orig premise:	um well i hate to yes i do
+orig hypothesis (0):	I really do n't like to .
+adv hypothesis (2):	I truely do n't like to .
+
+orig premise:	Perhaps a further password would be required , or , at any rate , some proof of identity .
+orig hypothesis (1):	Having both a password and proof of identity greatly increases safety .
+adv hypothesis (2):	Having both a username and proof of identity greatly increases safety .
+
+orig premise:	Harlem was our first permanent office , he said .
+orig hypothesis (1):	Harlem did a great job
+adv hypothesis (0):	Harlem did a grand work
+
+orig premise:	Dirt mounds surrounded the pit so that the spectators stood five or six people deep around the edge of the pit .
+orig hypothesis (2):	The ground is totally flat .
+adv hypothesis (1):	The ground is vitally flat .
+
+orig premise:	Nabatean trading town on the route from Gaza to Petra .
+orig hypothesis (0):	Between Gaza and Petra , there is a Nabatean trading town .
+adv hypothesis (1):	Between Gaza and Petra , there is a Nabatean sold midtown .
+
+orig premise:	Interpreters will be provided by APALRC .
+orig hypothesis (0):	Interpreters will be distributed by the APALRC company .
+adv hypothesis (1):	Interpreters will be distributed by the APALRC entrepreneur .
+
+orig premise:	yeah i think i 'll probably just have to go with one of those splint braces or something
+orig hypothesis (2):	I do n't need a splint brace .
+adv hypothesis (0):	I do n't requisite a splint brace .
+
+orig premise:	This man claims that he has been robbed en route and is stranded without money or his plane ticket in an airport somewhere in Europe or the Middle East .
+orig hypothesis (0):	He claimed he was robbed on the way and has no money or a plane ticket
+adv hypothesis (2):	He claimed he was stole on the way and has no money or a plane ticket
+
+orig premise:	If not the most beautiful , the chateau is certainly the most formidable in the Loire Valley , a real defensive fortress , its black ramparts still forbidding despite having had their towers decapitated on the orders of Henri III .
+orig hypothesis (2):	The chateau is certainly the least formidable in all of the Loire Valley .
+adv hypothesis (1):	The regency is admittedly the least large in all of the Loire Valley .
+
+orig premise:	So many seemingly contrary and opposing factors combine to make it unique .
+orig hypothesis (2):	It is very bland and common place .
+adv hypothesis (1):	It is immeasurably uninspiring and collective mise .
+
+orig premise:	So it was n't Missenhardt 's singing -- marvelous though that was -- that made Osmin 's rantings so thrilling .
+orig hypothesis (2):	Osmin was always calm and collected .
+adv hypothesis (1):	Osmin was always calmness and accumulates .
+
+orig premise:	And truly , the father was right , his son had already experienced everything , tried everything , and was interested in less and less .
+orig hypothesis (0):	His son was losing interest in everything .
+adv hypothesis (2):	His sons was losing interest in everything .
+
+orig premise:	But when he was persuaded by divers means to help us , he gave up after one week , declaring it beyond his powers .
+orig hypothesis (1):	He decided it was too difficult because he was distracted by other topics .
+adv hypothesis (2):	He decided it was too herculean because he was distracted by other topics .
+
+orig premise:	In addition , special service areas are funded for two populations with special needs - Native Americans and migrant workers .
+orig hypothesis (0):	There are special service areas for both Native Americans and migrant workers .
+adv hypothesis (2):	There are grained service areas for both Native Americans and migrant workers .
+
+orig premise:	it 's so bad wanted to mow today i was off and i wanted to mow the yard but just walking across it it 's still so mushy if i took a mower out there i 'd tear the sod up so bad
+orig hypothesis (0):	I wanted to mow the lawn today but I could n't because it 's so mushy .
+adv hypothesis (2):	I loved to mow the lawn today but I could n't because it 's so mushy .
+
+orig premise:	Auditors from another country engaged to conduct audits in their country should meet the professional qualifications to practice under that country 's laws and regulations or other acceptable standards , such as those issued by the International Organization of Supreme Audit Institutions .
+orig hypothesis (1):	The majority of the world abides by a common auditing code .
+adv hypothesis (2):	The majority of the world abides by a habitual auditing code .
+
+orig premise:	Two is enough for a secret .
+orig hypothesis (0):	A secret needs two people .
+adv hypothesis (2):	A stealthily needs two people .
+
+orig premise:	Broadly speaking , the CEF Moderate scenario can be thought of as a 50 % increase in funding for programs that promote a variety of both demand-side and supply-side technologies .
+orig hypothesis (2):	The CEF Moderate scenario can be thought of as a 10 % decrease in funding for programs .
+adv hypothesis (1):	The CEF Moderate scenario can constitute thought of as a 10 % downsized in funds for program .
+
+orig premise:	Clearly , the press has done a lousy job with its focus on behavior such as infidelity or drug use that most people do n't care about .
+orig hypothesis (2):	The press has done a great job of covering hot-button issues people want to learn about .
+adv hypothesis (1):	The press haya done a great job of covering hot-button issues people want to learn about .
+
+orig premise:	oh really it would n't matter if we plant them when it was starting to get warmer
+orig hypothesis (0):	Warmer weather does n't alter planting time .
+adv hypothesis (1):	Warmer climate does n't alter planting time .
+
+orig premise:	For ideological free-marketeers -LRB- like myself -RRB- , theories like Smith and Wright 's can be intellectually jarring .
+orig hypothesis (1):	I can appreciate their position even if it does contradict my opinions .
+adv hypothesis (0):	I can recognised their position even if it does contradict my opinions .
+
+orig premise:	To help identify solutions to this problem , Senators Fred Thompson and John Glenn , Chairman and Ranking Minority Member , respectively , of the Senate Committee on Governmental Affairs , requested that we study organizations with superior security programs to identify management practices that could benefit federal agencies .
+orig hypothesis (2):	There are no problems in the security of federal agencies .
+adv hypothesis (1):	There are no hassle in the secure of federal cida .
+
+orig premise:	At the west end is a detailed model of the whole temple complex .
+orig hypothesis (1):	The model temple complex was built in the 1900s .
+adv hypothesis (2):	The formers temple complex was anchored in the 1900s .
+
+orig premise:	they ought to take all them little misdemeanor people let them go let them go
+orig hypothesis (2):	they should n't let go of the misdemeanor people
+adv hypothesis (1):	they should n't let go of the turpitude citizenship
+
+orig premise:	We briefly discussed the Nazi angle
+orig hypothesis (1):	We looked for more evidence about the Nazi angle .
+adv hypothesis (0):	We looked for more evidences about the Nazi angle .
+
+orig premise:	That is well .
+orig hypothesis (1):	That is very well , but I do n't know .
+adv hypothesis (2):	That is very verywell , but I do n't know .
+
+orig premise:	Then he gave in .
+orig hypothesis (2):	He would not give in .
+adv hypothesis (0):	He would not furnishes in .
+
+orig premise:	You can also view a Roman Nileometer carved in the rock which measured the height of the river and helped the ancient priests to time the announcement of the Nile flood that initiated a movement of workers from the fields to community projects such as temple building .
+orig hypothesis (0):	Ancient priests predicted floods with the Roman Nileometer .
+adv hypothesis (1):	Ancient evangelists predicted rainstorm with the Roman Nileometer .
+
+orig premise:	Even the lower limit of that differential compounds to a hefty sum over time .
+orig hypothesis (1):	The differential doubles every month .
+adv hypothesis (2):	The differential doubles every mois .
+
+orig premise:	However , SCR installations designed to comply with the NOX SIP Call are generally already into the installation process or , at a minimum , into the engineering phase of the project .
+orig hypothesis (2):	SCR installs do n't have NOX SIP to comply with .
+adv hypothesis (1):	SCR installs do n't enjoy NOX SIP to comply with .
+
+orig premise:	in one sense um i 'm i 'm an older person in my fifties so i feel that we 've lost some things in the sense that women have to work today
+orig hypothesis (0):	As someone from an older generation , I feel like things have changed .
+adv hypothesis (1):	As someone from an older generation , I sens like things have changed .
+
+orig premise:	The Department of Labor 's interim rule is adopted pursuant to the authority contained in Section 707 of the Employee Retirement Income Security Act -LRB- Pub .
+orig hypothesis (2):	The interim rule has no relation to section 707 .
+adv hypothesis (1):	The interim precedence had no respect to portions 707 .
+
+orig premise:	Also , I will be assuming that the 6.0 a cost of the Postal Service to take the mail from basic to workshared condition is constant as limited quantities of mail move back and forth between basic and workshared .
+orig hypothesis (0):	I will be assuming that the 6.0 a cost of the Postal Service to take the mail from basic to workshared condition is constant .
+adv hypothesis (1):	I hope coming reckon that the 6.0 a cost of the Postal Service to shoulder the postcard from basic to workshared status is constant .
+
+orig premise:	really oh i thought it was great yeah
+orig hypothesis (1):	I want to do that again
+adv hypothesis (2):	I wanna to do that again
+
+orig premise:	In the 1980s , and as late as 1994 , a major Republican theme was a sort of taunting , nyah-nyah populism .
+orig hypothesis (1):	The Republicans changed their theme after 1995 .
+adv hypothesis (0):	The Republicans changed their themes after 1995 .
+
+orig premise:	We have taken a number of steps to empower and invest in our employees .
+orig hypothesis (0):	We are sure to invest in our workers .
+adv hypothesis (2):	We are safe to invest in our workers .
+
+orig premise:	Do n't miss the open-air market close by the wharves .
+orig hypothesis (1):	The market is full of impressive goods .
+adv hypothesis (2):	The market is full of impressive wares .
+
+orig premise:	The agency also receives a percentage of money from the Interest On Lawyers ' Trust Accounts .
+orig hypothesis (2):	They do not receive any funding from the account .
+adv hypothesis (1):	They do not enjoy any money from the gl .
+
+orig premise:	Venice and its Repubblica Serena rebounded to turn to the mainland , extending its Veneto territory from Padua across the Po valley as far as Bergamo .
+orig hypothesis (1):	Venice and Reppublica Serena had similar hopes and plans .
+adv hypothesis (2):	Venice and Reppublica Serena took similar hopes and plans .
+
+orig premise:	yeah and crawl through it
+orig hypothesis (2):	I will not be crawling through anything .
+adv hypothesis (1):	I will not coming fawn through anything .
+
+orig premise:	yeah because those things i think would just snap you know
+orig hypothesis (1):	Because they would break under that much force .
+adv hypothesis (2):	Because they would broken under that much fortitude .
+
+orig premise:	Eighty percent of pagers in the United States were knocked out by a satellite malfunction in space .
+orig hypothesis (2):	Pagers in the United States were unaffected by the satellite malfunction .
+adv hypothesis (0):	Pagers in the United States were unbroken by the satellite malfunction .
+
+orig premise:	` Go now . '
+orig hypothesis (1):	Go on and kill .
+adv hypothesis (2):	Go on and killin .
+
+orig premise:	Indeed , the Democratic counteroffensive has already begun .
+orig hypothesis (0):	There was a previous offensive move made . .
+adv hypothesis (1):	There was a last offensive move made . .
+
+orig premise:	yeah i know because uh all i know is that when i came here in eighty seven they still had uh it was the last year to to put all your punch cards in
+orig hypothesis (0):	When I first started in the eighties you had to use punch cards .
+adv hypothesis (2):	When I first started in the eighties you eu to use punch cards .
+
+orig premise:	Also , disappointing earnings reports from Intel and other blue-chip companies in the two weeks leading up to the crash caused investors to question the value of entire portfolios .
+orig hypothesis (2):	Intel has never had a disappointing earning report .
+adv hypothesis (1):	Intel has never had a lamentable earning report .
+
+orig premise:	In keeping with other early Buddhist tenets , there is no figurative representation of Buddha here , However , there is a large gilded statue from a later period inside , and behind the temple are the spreading branches and trunks of the sacred Bodhi Tree , which is said to have grown from a sapling of the first one that stood here 2,500 years ago .
+orig hypothesis (2):	There is no statue of Buddha located there .
+adv hypothesis (0):	There is no idols of Buddha located there .
+
+orig premise:	In the ancestral environment a man would be likely to have more offspring if he got his pick of the most fertile-seeming women .
+orig hypothesis (1):	Men who could show strength and cunning had their pick of fertile females .
+adv hypothesis (0):	Men who could show strength and underhand had their pick of fertile females .
+
+orig premise:	IDAs are special in that low-income savers receive matching funds from federal and state governments as well as private sector organizations as an incentive to save .
+orig hypothesis (2):	IDAs are only people special people who have great achievements .
+adv hypothesis (1):	IDAs are only people special people who have excellent achievements .
+
+orig premise:	Are you ready to train before our ride ? Jon asked Adrin .
+orig hypothesis (2):	Jon and Adrin had never met each other .
+adv hypothesis (1):	Jon and Adrin had never obeyed each other .
+
+orig premise:	The sculpture on the dome -LRB- a personification of Commerce -RRB- and the river gods -LRB- including Anna Livia , set over the main door -RRB- are by Edward Smyth , who was also responsible for the statues on the GPO .
+orig hypothesis (1):	The dome has a big marble sculpture of a dragon .
+adv hypothesis (2):	The dome has a jumbo impassive sculpture of a dragon .
+
+orig premise:	couple of years ago i was thinking about moving to Massachusetts but uh boy i 'm glad i did n't
+orig hypothesis (2):	I have never considered moving to Massachusetts .
+adv hypothesis (1):	I have never contemplated migrated to Massachusetts .
+
+orig premise:	oh thank God i 've never been to Midland
+orig hypothesis (0):	I have n't ever been to Midland .
+adv hypothesis (2):	I fi n't ever been to Midland .
+
+orig premise:	Pray be seated , mademoiselle .
+orig hypothesis (0):	Please be seated , ma'am .
+adv hypothesis (1):	Please be installed , ma'am .
+
+orig premise:	The purpose of the Self-Inspection process was to provide programs a means to verify , by reviewing a sample of cases , that their 1999 CSR data satisfies LSC 's standards for accuracy .
+orig hypothesis (1):	Verification of accuracy is the primary cause of success in business .
+adv hypothesis (2):	Verification of accuracy is the vitale cause of success in business .
+
+orig premise:	At the delta of the Rh ?? ne , where its two arms spill into the Medi?ter?ra?nean , the Camargue has been reclaimed from the sea to form a national nature reserve .
+orig hypothesis (1):	The reclamation effort was contracted out to a Dutch company that specializes in dikes and sea water management .
+adv hypothesis (0):	The reclamation effort was contracted out to a Dutch firm that specialises in dikes and sea water management .
+
+orig premise:	um i know that i had heard that uh McDonald 's has gotten so much flack about sending their hot foods out in the Styrofoam that they are going to work on something
+orig hypothesis (0):	McDonald 's was sending their hot foods out in the Styrofoam and they got a lot of flack about it , that they are going to work on something .
+adv hypothesis (1):	McDonald 's was shipped their hot restaurants out in the Styrofoam and they got a multiple of flack about it , that they are going to work on something .
+
+orig premise:	In order to ensure these Americans are not left out of the justice system , a strong federal role in supporting legal services is vital .
+orig hypothesis (1):	Every american us entitled to legal aid
+adv hypothesis (2):	Every american us entitled to legal contributing
+
+orig premise:	You wonder what youre going to be when you grow up , lawyer Smith said .
+orig hypothesis (2):	You have no dreams for the future .
+adv hypothesis (1):	You enjoy no dreamed for the subsequent .
+
+orig premise:	Even the lower limit of that differential compounds to a hefty sum over time .
+orig hypothesis (2):	The differential will not grow .
+adv hypothesis (1):	The differential will not grows .
+
+orig premise:	Sue me , Royko wrote .
+orig hypothesis (2):	`` Do n't sue me ! '' Royko wrote .
+adv hypothesis (0):	`` Do n't prosecuted me ! '' Royko wrote .
+
+orig premise:	Here you 'll see the delightful but slowly disappearing indigenous FWI costume madras turban , madras skirt over petticoat , silk peplum , white blouse , and gold earrings , bracelets , and collier-choux necklace .
+orig hypothesis (0):	Here you can see FWI 's traditional costume which includes a madras skirt , white blouse , and gold earrings .
+adv hypothesis (1):	Here you can consults FWI 's traditional garb which spans a india scrubs , white blouse , and gold earrings .
+
+orig premise:	Why should n't he be ?
+orig hypothesis (0):	There is no reason he should n't be .
+adv hypothesis (1):	There is no reason he should n't become .
+
+orig premise:	13 Executive Effectively Implementing the Government Performance and Results Act -LRB- GAO/GGD -96 -118 , June 1996 -RRB- .
+orig hypothesis (1):	The executives worked hard to make the government act reality
+adv hypothesis (2):	The executives worked herculean to make the government act reality
+
+orig premise:	Mack Lee , Body Servant of General Robert E. Lee Through the Civil War , published in 1918 .
+orig hypothesis (1):	The book was first drafted in early 1915 .
+adv hypothesis (2):	The book was first allready in early 1915 .
+
+orig premise:	4 million , or about 8 percent of total expenditures for the two programs -RRB- .
+orig hypothesis (1):	The figure of 4 million is likely to rise in the coming years .
+adv hypothesis (0):	The figure of 4 million is possible to rise in the coming years .
+
+orig premise:	i 've yeah i 've done it before and when i was in high in high school and college and thoroughly enjoyed it and and it 's really a a blast my wife hates it but that 's the way life is i guess
+orig hypothesis (0):	I 've done it in the past and really liked it .
+adv hypothesis (1):	I 've done it in the last and really preferred it .
+
+orig premise:	67 through .67 d , provide a mechanism for limiting the issues on which a trial-type hearing is required ; allow the Postal Service to explain the unavailability of data that would otherwise have to be filed ; and provide for data collection for the duration of the experiment .
+orig hypothesis (2):	67 through .67 d does not provide mechanism for limiting issue on which trial-type hearing is required allowing postal service to explain unavailability of the data .
+adv hypothesis (0):	67 through .67 d does not affords mechanism for limiting issue on which trial-type hearing is required allowing postal service to explain unavailability of the data .
+
+orig premise:	so you know well a lot of the stuff you hear coming from South Africa now and from West Africa that 's considered world music because it 's not particularly using certain types of folk styles
+orig hypothesis (0):	They consider the West African music to be worldly since they do not rely on folk styles .
+adv hypothesis (2):	They envisage the West African music to be worldly since they do not rely on folk styles .
+
+orig premise:	i do n't know if you have a place there called uh or you probably have something similar we call it Service Merchandise
+orig hypothesis (0):	It is called Service Merchandise here .
+adv hypothesis (1):	It is telephone Service Merchandise here .
+
+orig premise:	Marina del Rey is another , where you can also charter a yacht .
+orig hypothesis (0):	One can charter a yacht in Marina del Rey .
+adv hypothesis (2):	One can collegiate a skiff in Marina del Rey .
+
+orig premise:	It features over 50 outlets for discounted designer fashions , from Armani to DKNY .
+orig hypothesis (2):	It features less than 20 outlet stores with designer fashions .
+adv hypothesis (1):	It features less than 20 scapegoat stores with designers fashions .
+
+orig premise:	He went down on his knees , examining it minutely , even going so far as to smell it .
+orig hypothesis (2):	He did n't even look at it .
+adv hypothesis (0):	He did n't even seeing at it .
+
+orig premise:	i agree with you but did you see the map they drew up on uh on how they were gon na divide up the districts
+orig hypothesis (0):	They drew a map on how they were gon na divide up the districts .
+adv hypothesis (1):	They drawn a cartographer on how they were tryin na divide up the districts .
+
+orig premise:	Other attractions include hot springs , a market , and the forests and ski-slopes of nearby Uluda .
+orig hypothesis (2):	There are not many attractions here other than site seeing .
+adv hypothesis (0):	There are not many attractions here other than site visualise .
+
+orig premise:	Was it a sudden decision on his part , or had he already made up his mind when he parted from me a few hours earlier ?
+orig hypothesis (1):	He left so suddenly and unannounced that I figured this was a spur of the moment decision , but I assumed later that this possibly was something planned and kept from me for quite some time .
+adv hypothesis (0):	He leaving yet paradoxically and unannounced that I figured this was a spur of the moment decision , but I assumed later that this possibly was something planned and kept from me for quite some time .
+
+orig premise:	yeah i 'm i 'm sort of an acting process engineer but not officially but that 's pretty much what i do yeah
+orig hypothesis (1):	I 'm sort of an acting process scientists but officially I handle the mail for the week .
+adv hypothesis (2):	I 'm gen of an acting process scientists but officially I handle the mail for the week .
+
+orig premise:	no nobody 's going to bother you
+orig hypothesis (1):	No one is going to bother you about your new haircut .
+adv hypothesis (2):	No one is vanishing to bother you about your new hairstylist .
+
+orig premise:	There would be little benefit to national saving from allowing early access to mandatory accounts with set contribution levels-which has been proposed for Social Security -LRB- see Q4 .
+orig hypothesis (1):	There would be happier people to national saving .
+adv hypothesis (2):	There would be happy people to national saving .
+
+orig premise:	But if Clinton consents , censure and community service can proceed .
+orig hypothesis (1):	The censure and community service are very important .
+adv hypothesis (0):	The censure and community service are very principal .
+
+orig premise:	Look here , you 've been asking me a lot of questions .
+orig hypothesis (0):	Look here , you have been posing a lot of questions at me .
+adv hypothesis (1):	Look here , you have been posing a shipments of questions at me .
+
+orig premise:	Hong Kong has long been China 's handiest window on the West , and the city is unrivaled in its commercial know-how and managerial expertise .
+orig hypothesis (2):	Hong Kong does n't have capable people .
+adv hypothesis (1):	Hong Kong does n't enjoy capable people .
+
+orig premise:	i think that yeah i think and i i think that 's real important
+orig hypothesis (0):	`` I truly believe that that 's really important . ''
+adv hypothesis (2):	`` I truly envisage that that 's really meaningful . ''
+
+orig premise:	` Not entirely , ' I snapped , harsher than intended .
+orig hypothesis (2):	`` Yes , entirely '' I shouted just as harsh as I intended to .
+adv hypothesis (1):	`` Yes , entirely '' I muttered just as harsh as I intended to .
+
+orig premise:	Like Arabs and Jews , Diamond warns , Koreans and Japanese are joined by blood yet locked in traditional enmity .
+orig hypothesis (2):	Koreans and Japanese have no tension between them .
+adv hypothesis (1):	Koreans and Japanese fi no duress between them .
+
+orig premise:	In the 1980s , a pragmatic socialist coalition government with the Christian Democrats brought a few years of unusual stability .
+orig hypothesis (0):	The environment was stable in the 1980s .
+adv hypothesis (1):	The environment was incessant in the 1980s .
+
+orig premise:	Even after we hire good people , we need to take steps to retain them .
+orig hypothesis (1):	People often stay on a job for different reasons than the ones they had for accepting the position .
+adv hypothesis (2):	People perpetually remain on a occupations for different reasons than the ones they had for accepting the position .
+
+orig premise:	I do n't know all the answers , fella .
+orig hypothesis (2):	I know everything there is to know about it .
+adv hypothesis (1):	I learn everything there is to know about it .
+
+orig premise:	Audit committees should not only oversee both internal and external auditors , but also be proactively involved in understanding issues related to the complexity of the business , and , when appropriate , challenge management through discussion of choices regarding complex accounting , financial reporting , and auditing issues .
+orig hypothesis (2):	Audit committees are not concerned with the oversight into internal and external auditors .
+adv hypothesis (1):	Audit committees are not fright with the surveillance into internal and external auditors .
+
+orig premise:	A detailed English explanation of the plot is always provided , and wireless recorded commentary units are sometimes available .
+orig hypothesis (0):	A detailed plot , written in English , is always available and an audio commentary is sometimes available .
+adv hypothesis (2):	A detailed plot , written in English , is forever available and an audio commentary is sometimes available .
+
+orig premise:	The Illinois Equal Justice Foundation has recently made its first grants from money appropriated by the Illinois General Assembly .
+orig hypothesis (0):	The Illinois Equal Justice Foundation just received money from the Illinois General Assembly .
+adv hypothesis (1):	The Illinois Equal Justice Foundation just received dollar from the Illinois General Assembly .
+
+orig premise:	are you and since being Argentinean we also have a lot of pasta
+orig hypothesis (2):	We 're Argentinean so we hate to eat any pasta or Italian food .
+adv hypothesis (1):	We 're Argentinean so we hate to feedings any lasagna or Italian lunches .
+
+orig premise:	Also , lack of winter freezes means that mites normally killed off by the cold will survive .
+orig hypothesis (0):	When there is not a freeze during winter the mites are able to survive .
+adv hypothesis (1):	When there is not a freeze during hibernate the mites are able to survive .
+
+orig premise:	okay okay that 's it that GTE had purchased Tigon and yeah that 's what we have
+orig hypothesis (2):	We are n't sure if Tigon has been bought yet .
+adv hypothesis (0):	We are n't sure if Tigon has been purchases yet .
+
+orig premise:	First , get the basics right , that is , the blocking and tackling of financial reporting .
+orig hypothesis (2):	The basics do n't need to be right first .
+adv hypothesis (1):	The basics could n't need to be right first .
+
+orig premise:	Everybody has this quote from NBA commissioner David You can not strike your boss and still hold your job -- unless you play in the NBA .
+orig hypothesis (2):	NBA commissioner said he hates NBA players .
+adv hypothesis (1):	NBA commissioner argued he hates NBA ballplayer .
+
+orig premise:	Arsenic would put poor Emily out of the way just as well as strychnine .
+orig hypothesis (0):	There are many ways to get Emily out of the way .
+adv hypothesis (2):	There are immeasurable ways to get Emily out of the way .
+
+orig premise:	On the window above the sink a small container is stuffed with bits of leftovers -- the red berries of barberry , small twigs of willow , cuttings of hinoki cypress with its fruits attached , and the pendulous leathery seed pods of wisteria .
+orig hypothesis (0):	There is a container on the window containing organic matter .
+adv hypothesis (2):	There is a beaker on the window containing organic matter .
+
+orig premise:	Current Chinese leaders have distinctive characteristics that give them significant advantages over the United States in foreign policy .
+orig hypothesis (1):	China is better at foreign policy than the US .
+adv hypothesis (2):	China is more at extraneous statesman than the US .
+
+orig premise:	Although the accounting and reporting model needs to be updated , in my view , the current attest and assurance model is also out of date .
+orig hypothesis (0):	The accounting model needs to be updated in addition to the acquisition model .
+adv hypothesis (1):	The accounting model needs to be updated in supplements to the acquisition model .
+
+orig premise:	Adrin heard of a young king in the south who fought against slavers and had an ivory skinned raven-haired swordswoman at his side .
+orig hypothesis (1):	Adrin really wanted to meet the young king .
+adv hypothesis (2):	Adrin really didnt to meet the young king .
+
+orig premise:	Some bugs are hell to track down .
+orig hypothesis (1):	It takes hours to find some bugs .
+adv hypothesis (2):	It takes hrs to find some bugs .
+
+orig premise:	The story also made the front page of the New York Times and the Financial Times of London , which said that more than 10,000 members of a mystic cult called Fa Lun Gong caused acute embarrassment to security forces by virtually surrounding the compound where China 's leaders work .
+orig hypothesis (0):	The New York Times had a front page coverage of the Fa Lun Gong surrounding of the China 's leaders compound .
+adv hypothesis (1):	The New York Times lasted a frontline page coverage of the Fa Lun Gong surrounding of the China 's leiter compound .
+
+orig premise:	A fresh access of pain seized the unfortunate old lady .
+orig hypothesis (1):	The elderly lady was close to death and in pain .
+adv hypothesis (0):	The elderly female was nigh to death and in pain .
+
+orig premise:	In this respect , bringing Steve Jobs back to save Apple is like bringing Gen.
+orig hypothesis (0):	Steve Jobs came back to Apple .
+adv hypothesis (2):	Steve Jobs infiltrated back to Apple .
+
+orig premise:	The FCC will publish a notice in the Federal Register when such approval is granted .
+orig hypothesis (1):	After approval is granted , the FCC will publish a notice in the Federal Register within 30 days .
+adv hypothesis (2):	After approval is granted , the FCC will airplay a notice in the Federal Register within 30 days .
+
+orig premise:	His diet was of wheaten bread ,
+orig hypothesis (2):	He only ate vegetables , fruits , nuts and lots of meat .
+adv hypothesis (1):	He only ate vegetables , fruits , walnut and lots of veal .
+
+orig premise:	Concentration of greenhouse gases , especially CO2 , have increased substantially since the beginning of the industrial revolution .
+orig hypothesis (1):	Global warming is not real .
+adv hypothesis (2):	Global temperatures is not real .
+
+orig premise:	Palestrina , by Hans Pfitzner , performed by the Royal Opera -LRB- Metropolitan Opera House , New York -RRB- .
+orig hypothesis (1):	The Royal Opera performs a variety of other shows , not just Palestrina .
+adv hypothesis (2):	The Royal Opera fulfils a differing of other shows , not just Palestrina .
+
+orig premise:	H-2A aliens , as the only category of eligible aliens who reside in the United States temporarily , are particularly affected by the issue before the Commission because of their necessarily short periods of time in the United States .
+orig hypothesis (2):	H-2A aliens are authorized to stay in the United States permanently .
+adv hypothesis (0):	H-2A aliens are authorized to reside in the United States periodically .
+
+orig premise:	football and baseball and
+orig hypothesis (0):	Both football and baseball .
+adv hypothesis (2):	Both copa and baseball .
+
+orig premise:	We make simulacra out of mandrakes -- like the manicurist in the barber shop .
+orig hypothesis (2):	We do n't use mandrake in anything .
+adv hypothesis (1):	We achieve n't consuming mandrake in anything .
+
+orig premise:	The m ?? tro -LRB- subway -RRB- is the fastest way to move around the city , but the buses , both in the capital and the other big towns , are best for taking in the sights .
+orig hypothesis (0):	If you 'd like to experience the city sights taking the bus is the best mode of transportation , though taking the subway is faster .
+adv hypothesis (2):	If you 'd like to experience the city sights taking the bus is the best mode of transportation , though taking the subway is immediatly .
+
+orig premise:	' She gets a little obsessive about her sauce .
+orig hypothesis (1):	Her sauce is so complicated that she 's obsessed with perfecting each ingredient .
+adv hypothesis (2):	Her marinara is so difficulty that she 's obsessed with perfecting each ingredient .
+
+orig premise:	In the vaults of the Bank .
+orig hypothesis (0):	In the bank vault .
+adv hypothesis (2):	In the stockbroker vault .
+
+orig premise:	The rock has a soft texture and can be bought in a variety of shapes .
+orig hypothesis (0):	The rock comes in various shapes .
+adv hypothesis (1):	The rock arrives in countless shapes .
+
+orig premise:	The arts also flourished in India during these early times .
+orig hypothesis (2):	The arts languished during those early days .
+adv hypothesis (0):	The artsy lingered during those early days .
+
+orig premise:	What 's needed , alongside an evacuation plan , is a realistic program to stabilize conditions for those left behind .
+orig hypothesis (0):	Those left behind will need a program for stabilizing conditions if they can not evacuate .
+adv hypothesis (2):	Those leave behind will need a program for stabilise conditions if they can not evacuate .
+
+orig premise:	The following are examples of how agencies engaged employee unions .
+orig hypothesis (2):	The following are examples of how agencies can eradicate employee unions .
+adv hypothesis (1):	The following are examples of how agencies can eradicate earners unions .
+
+orig premise:	To make matters worse , many employers looking to save money -LRB- and please their employees -RRB- will drop dependent benefits if states provide better coverage than the private plans now do .
+orig hypothesis (0):	If states provide better coverage than private plans , many employers will drop dependent benefits to save money .
+adv hypothesis (2):	If states donne better coverage than private plans , vast earners will drop dependent rewards to save money .
+
+orig premise:	They were quite , tetanic in character . ''
+orig hypothesis (0):	They were tense in how they acted .
+adv hypothesis (1):	They were tense in how they waged .
+
+orig premise:	Their supplies scarce , their harvest meager , and their spirit broken , they abandoned the fort in 1858 .
+orig hypothesis (2):	Their spirit was never broken despite having no more food .
+adv hypothesis (1):	Their spirit was never broken despite assuming no more meals .
+
+orig premise:	It might not stop them completely but it would slow them the first night .
+orig hypothesis (2):	It wo n't affect their speed at all .
+adv hypothesis (1):	It wo n't impair their airspeed at all .
+
+orig premise:	The program covers those units covered by the new nationwide sulfur dioxide trading program that are located in the States in the WRAP and that , in any year starting in 2000 , emit more than 100 tons of sulfur dioxide and are used to produce electricity for sale .
+orig hypothesis (0):	The program covers units covered by the nationwide sulfur dioxide trading program .
+adv hypothesis (2):	The program covers units covered by the nacional sulfur dioxide trading program .
+
+orig premise:	Finally the woman opened her eyes feebly .
+orig hypothesis (1):	She opened her eyes after several minutes .
+adv hypothesis (2):	She opened her eyes after several mins .
+
+orig premise:	I entered her shack , opening the painted door covered in runes of warding .
+orig hypothesis (1):	I entered the shack , bidden by her -- the runes of warding would have surely sent me away otherwise .
+adv hypothesis (2):	I entering the hut , bidden by her -- the rune of warding would have definetly sent me away otherwise .
+
+orig premise:	He appropriated for the State much of the personal fortunes of the princes , but found it harder to curtail the power of land-owners who had extensive contacts with the more conservative elements in his Congress Party .
+orig hypothesis (0):	He was able to take much of the princes ' individual fortunes for the State , but it was more difficult to wrest power from land owners in contact with the conservative elements of the Congress Party .
+adv hypothesis (1):	He was imaginable to take large of the princes ' individual fortunes for the State , but it was more complex to wrest power from land owners in contact with the conservative elements of the Congress Party .
+
+orig premise:	My bottom line is that I would recommend the book to students and colleagues and I hope it does well , despite its anti-intellectual p.c.
+orig hypothesis (1):	If the book was n't so anti-intellectual , it would be my favorite book .
+adv hypothesis (2):	If the book was n't so anti-intellectual , it would be my fave book .
+
+orig premise:	you did you see that
+orig hypothesis (2):	No one saw it .
+adv hypothesis (1):	No one enjoyed it .
+
+orig premise:	although the uh it 's uh it we almost one day we painted the house to uh we painted we painted the whole inside and it had all this dark trim we thought uh you know we did the one wall but the other trim i 'm trying to think i think i think we left most of it because it gets to be uh they do n't do that in the newer houses now we do n't the uh mold everything is white in a new house everything is white
+orig hypothesis (0):	We painted the house over the duration of one day .
+adv hypothesis (2):	We pastel the house over the duration of one day .
+
+orig premise:	Big Game Fishing and Boat Trips .
+orig hypothesis (0):	Boat voyages and big game fishing .
+adv hypothesis (2):	Boat voyager and big game fishing .
+
+orig premise:	yes that i think that 's true so that makes them feel definitely like outsiders but like getting back to the their government benefits they they do have a lot of uh tax benefits
+orig hypothesis (1):	They receive more tax benefits then anyone else .
+adv hypothesis (0):	They reaches more tax benefits then anyone else .
+
+orig premise:	After the high emotion of de Gaulle 's march down the Champs-Elys ?? es , the business of post-war reconstruction , though boosted by the generous aid of the Americans ' Mar?shall Plan , proved arduous , and the wartime alliance of de Gaulle 's conservatives and the Communist Party soon broke down .
+orig hypothesis (1):	Though the Marshall Plan was designed to help other countries , it failed to fulfill its purpose with the Communists .
+adv hypothesis (2):	Though the Marshall Plan was styled to succor other countries , it failed to fulfill its purpose with the Communists .
+
+orig premise:	And she came to you ?
+orig hypothesis (0):	The person asked if the woman came to the other person .
+adv hypothesis (1):	The person asked if the woman came to the other someone .
+
+orig premise:	Eighty percent of pagers in the United States were knocked out by a satellite malfunction in space .
+orig hypothesis (0):	A majority of pagers in the United States were disrupted by a satellite malfunction .
+adv hypothesis (2):	A hugest of pagers in the United States were disrupted by a satellite malfunction .
+
+orig premise:	Jon sat down on the ground cross legged .
+orig hypothesis (0):	The man was on the ground .
+adv hypothesis (2):	The man was on the floor .
+
+orig premise:	no never heard of it
+orig hypothesis (2):	He has definitely heard of it .
+adv hypothesis (0):	He has definitively heard of it .
+
+orig premise:	Control activities occur at all levels and functions of the entity .
+orig hypothesis (0):	Control activities happen everywhere in the entity .
+adv hypothesis (1):	Control activities happen everywhere in the org .
+
+orig premise:	You did not understand that he believed Mademoiselle Cynthia guilty of the crime ?
+orig hypothesis (2):	He believed Mademoiselle Cynthia innocent and you were aware ?
+adv hypothesis (0):	He suspecting Mademoiselle Cynthia benign and you were aware ?
+
+orig premise:	Something broke inside her , something in her head .
+orig hypothesis (1):	Something broke inside her , both in her heart and her head
+adv hypothesis (0):	Something snapped inside her , both in her heart and her head
+
+orig premise:	Additionally , GAO 's FederalInformationSystemControlsAuditManualis now used by most major federal audit entities to evaluate computerrelated controls .
+orig hypothesis (0):	A few major federal audit entities use the GAO system .
+adv hypothesis (1):	A few huge federal audit entities use the GAO system .
+
+orig premise:	Accusations of corruption among officials in Rao 's administration in 1995 also paved the way for a comeback .
+orig hypothesis (0):	People accused Rao officials of corruption , which led to a comeback .
+adv hypothesis (2):	People arraigned Rao officials of corruption , which led to a comeback .
+
+orig premise:	I hate pigeons .
+orig hypothesis (1):	My disdain for pigeons is well warranted .
+adv hypothesis (0):	My disdain for pigeons is suitably merited .
+
+orig premise:	i do n't know um do you do a lot of camping
+orig hypothesis (2):	I know exactly .
+adv hypothesis (0):	I fathom precisely .
+
+orig premise:	The analyses utilized different assumptions and generally resulted in smaller expenditure impact estimates than noted above .
+orig hypothesis (0):	The differing assumptions of the analyses resulted in different estimate than noted .
+adv hypothesis (2):	The differing asuncion of the analyses resulted in different estimate than noted .
+
+orig premise:	The Edinburgh International Festival -LRB- held annually since 1947 -RRB- is acknowledged as one of the world 's most important arts festivals .
+orig hypothesis (1):	The festival showcases exhibitions from all seven continents .
+adv hypothesis (2):	The festival exposes expos from all seven continents .
+
+orig premise:	did you see it
+orig hypothesis (1):	It is right in front of you .
+adv hypothesis (2):	It is right in frente of you .
+
+orig premise:	The Fray 's reputation as a home for hostile , rude , and mean-spirited exchanges suffered a severe beating at the hands of the Reading thread , which was so civilized that participants suggested taking insulin shots afterward .
+orig hypothesis (2):	The Fray is known as friendly and gentle .
+adv hypothesis (1):	The Fray is famed as loveable and sweet .
+
+orig premise:	There are also dozens of fabulous pictures .
+orig hypothesis (1):	These product photographs show off the beauty of our craftsmanship .
+adv hypothesis (2):	These product pics show off the beauty of our craftsmanship .
+
+orig premise:	Watch for Pagla Jhora , the Mad Torrent , just after Gladstone 's Rock -LRB- shaped like the statesman 's head -RRB- .
+orig hypothesis (2):	The Mad Torrent comes before Gladstone 's Rock .
+adv hypothesis (0):	The Mad Torrent happens before Gladstone 's Rock .
+
+orig premise:	The regime 's response of ferocious repression plus numerous other ineptitudes led to a third revolution in 1848 , with the Bonapartists , led by Napoleon 's nephew , emerging triumphant .
+orig hypothesis (0):	France was ruled by Napoleon 's nephew after they won a revolution in 1848 .
+adv hypothesis (1):	France was ruled by Napoleon 's nephew after they won a revolutions in 1848 .
+
+orig premise:	To reach Old Cairo take the Nile River Bus from the jetty near the Ramses Hilton hotel ; it will drop you at the terminus of Masr El-Qadeema ; or take the Cairo metro line 1 to Mari Girgis Station .
+orig hypothesis (0):	You can get to Old Cairo by taking the Nile River Bus .
+adv hypothesis (1):	You can gaining to Old Cairo by approve the Nile River Bus .
+
+orig premise:	After their savage battles , the warriors recuperated through meditation in the peace of a Zen monastery rock garden .
+orig hypothesis (0):	The warriors recuperated , after their savage battles , at a Zen monastery rock garden .
+adv hypothesis (2):	The warriors recuperated , after their savage firefight , at a Zen monastery rock garden .
+
+orig premise:	because we do n't always read the newspaper sometimes it just sits around for a while and then we just chuck it
+orig hypothesis (0):	Sometimes we throw the newspaper away without reading it .
+adv hypothesis (2):	Sometimes we jette the newspaper away without reading it .
+
+orig premise:	they take the football serious
+orig hypothesis (2):	They think football is meaningless .
+adv hypothesis (1):	They consider baseball is meaningless .
+
+orig premise:	are uh very few and then the other people just plan it you know it 's like it 's like have you have have you ever seen the commercial like for Federal Express where the with uh the think tank
+orig hypothesis (2):	I have never seen a Federal Express commercial .
+adv hypothesis (1):	I have never enjoyed a Federal Express commercial .
+
+orig premise:	yeah i think i 'll probably just have to go with one of those splint braces or something
+orig hypothesis (0):	I most likely need to use a splint brace .
+adv hypothesis (2):	I most danger gotta to use a splint brace .
+
+orig premise:	so he donates a lot not everything but a lot of the material then what he does n't donate we just go out and buy
+orig hypothesis (2):	He donates all of the material .
+adv hypothesis (1):	He gifts all of the equipment .
+
+orig premise:	If the collecting entity transfers the nonexchange revenue to the General Fund or another entity , the amount is accounted for as a custodial activity by the collecting entity .
+orig hypothesis (0):	The General Fund handles nonexchange revenue .
+adv hypothesis (2):	The General Fund handles nonexchange payrolls .
+
+orig premise:	The park was established in 1935 and was given Corbett 's name after India became independent .
+orig hypothesis (0):	The park used to be named after Corbett .
+adv hypothesis (2):	The gardens used to be named after Corbett .
+
+orig premise:	Such experience better enables the CIOs to work with business managers to build a shared vision for meeting mission needs .
+orig hypothesis (1):	They have put in a lot of time and effort .
+adv hypothesis (0):	They have put in a number of time and effort .
+
+orig premise:	But of course , that 's just another way of saying that liberal democracy -- a value Huntington surely ranks above the alternatives morally -- may never fit some peoples as naturally as it fits us .
+orig hypothesis (1):	Liberal democracy fits us well because we are political figures .
+adv hypothesis (2):	Liberal democracy fits us well jo we are political figures .
+
+orig premise:	Long ago -- or away , or whatever -- there was a world called Thar ?? and another called Erath .
+orig hypothesis (0):	A long time ago there were two worlds called Thar and Erath .
+adv hypothesis (2):	A long time ago there were two worlds telephoned Thar and Erath .
+
+orig premise:	Just look at the entertainment industry 's self-image instead .
+orig hypothesis (1):	Instead of looking into the self image of the tobacco industry , look at the entertainment industry .
+adv hypothesis (2):	Instead of digs into the self depiction of the tobacco industry , visualise at the entertainments industry .
+
+orig premise:	The avenue on the left leads towards the pointed Divan Tower -LRB- Divan Kulesi -RRB- , at the foot of which lie the Council Chamber and the Grand Vezir 's Office .
+orig hypothesis (0):	The avenue goes towards the Divan Tower and the Grand Vezir 's Office .
+adv hypothesis (2):	The avenue wanes towards the Divan Tower and the Grand Vezir 's Office .
+
+orig premise:	World demand increased with the growth of the motor-car and electrical industries , and sky-rocketed during World War I. By 1920 , Malaya was producing 53 percent of the world 's rubber , which had overtaken tin as its main source of income .
+orig hypothesis (1):	Without World War 1 , Malaya would be a poorer country .
+adv hypothesis (2):	Without World War 1 , Malaya would sont a poorer fatherland .
+
+orig premise:	Hardly catering to locals , Universal Citys Cityalk attempts to snag tourist dollars with its extensive collection of retail wonders , including magic shops , toy stores , sports shops , and a host of science fiction memorabilia .
+orig hypothesis (2):	The bulk of footfall in Universal City 's retail areas belongs to locals , who are well looked-after by the farmer 's markets , hairdressers , and other services there .
+adv hypothesis (0):	The bulk of footfall in Universal City 's retail areas belongs to locals , who are well looked-after by the herdsmen 's markets , hairdressers , and other services there .
+
+orig premise:	Also , the Holy Family are said to have sheltered here on their return from Egypt .
+orig hypothesis (0):	It is thought that the Holy family took refuge here , after having returned from Egypt .
+adv hypothesis (1):	It is knew that the Holy family grabbed refuge here , after having returned from Egypt .
+
+orig premise:	From here it 's all through the charming hillside village of Saint-Claude , with its upper-income homes , and on toward the summit or as far as the gendarmes are allowing traffic to proceed that day .
+orig hypothesis (0):	The charming hillside village of Saint-Claude has many upper-income homes .
+adv hypothesis (2):	The charming hillside village of Saint-Claude haya many upper-income homes .
+
+orig premise:	Were you in company with anyone ?
+orig hypothesis (2):	Were you awake ?
+adv hypothesis (0):	Were you woken ?
+
+orig premise:	How do you propose to get in touch with your would-be employers ?
+orig hypothesis (1):	How will you contact the bakery shop owner ?
+adv hypothesis (2):	How gonna you contact the bakery shop owner ?
+
+orig premise:	well i think of uh you mean as far as retirement
+orig hypothesis (0):	I believe you are referring to retirement .
+adv hypothesis (1):	I believe you are notes to retired .
+
+orig premise:	Even if auditors do not follow such other standards and methodologies , they may still serve as a useful source of guidance to auditors in planning their work under GAGAS .
+orig hypothesis (0):	Even should auditors choose not to comply with such standards , they are a helpful tool in guiding GAGAS work .
+adv hypothesis (2):	Even should auditors choose not to comply with such standards , they are a valid toolbox in guiding GAGAS work .
+
+orig premise:	Still Bork waited , staring upwards .
+orig hypothesis (0):	Bork looked up , waiting for something .
+adv hypothesis (2):	Bork looked up , sufferance for something .
+
+orig premise:	We did not study the reasons for these deviations specifically , but they likely result from the context in which federal CIOs operate .
+orig hypothesis (1):	These deviations mostly involve failure to apply software updates in a timely manner .
+adv hypothesis (2):	These deviations mostly engage defect to apply software updates in a timely manner .
+
+orig premise:	North of Mytilini , stop at the village of Moria , where you will find the remains of a huge Roman aqueduct surrounded by grazing goats .
+orig hypothesis (2):	There is nothing special to see in the village of Moria .
+adv hypothesis (1):	There is nothing special to believing in the zhuang of Moria .
+
+orig premise:	Comparing our experience on the Acid Rain Program with the NOx SIP Call and the Section 126 petitions demonstrates the benefit of having certain key issues decided by Congress rather than left to Agency rulemakings .
+orig hypothesis (1):	Congress has better judgement than Agency rulemakings .
+adv hypothesis (2):	Congress has bestest judgement than Agency rulemakings .
+
+orig premise:	At the end of the show is a cluster of popular sportswear with Tommy Hilfiger , Donna Karan , Nautica , the Gap , and such names applied to it .
+orig hypothesis (0):	Tommy Hilfiger , Donna Karan , and the Gap produce popular sportswear .
+adv hypothesis (2):	Tommy Hilfiger , Donna Karan , and the Gap engenders popular sportswear .
+
+orig premise:	i think Buffalo is an up an coming team they 're going to they 're showing some real promise for the next uh few years
+orig hypothesis (0):	Buffalo is showing some real promise for the next few years , I think they are an up and coming team .
+adv hypothesis (1):	Buffalo is showings some exact vow for the next few years , I think they are an up and coming team .
+
+orig premise:	No , I exclaimed , astonished .
+orig hypothesis (1):	I said no to him several time , utterly surprised by the change of events .
+adv hypothesis (0):	I remarked no to him several time , utterly surprised by the changeable of occurrence .
+
+orig premise:	The interim rule was reviewed by INS and EOIR under Executive Order
+orig hypothesis (0):	The interim rule went through some review .
+adv hypothesis (1):	The interim rule faded through some review .
+
+orig premise:	no North Carolina State
+orig hypothesis (2):	North Carolina is a county
+adv hypothesis (0):	North Carolina is a region
+
+orig premise:	If that investor were willing to pay extra for the security of limited downside , she could buy put options with a strike price of $ 98 , which would lock in her profit on the shares at $ 18 , less whatever the options cost .
+orig hypothesis (0):	The strike price could be $ 98 .
+adv hypothesis (2):	The strike coste could be $ 98 .
+
+orig premise:	Carmel Man , a relation of the Neanderthal family , lived here 600,000 years ago .
+orig hypothesis (1):	Carmel Man is still relatively well-preserved today , which is how we were able to estimate his age .
+adv hypothesis (2):	Carmel Man is still comparatively well-preserved today , which is how we were conceivable to estimate his age .
+
+orig premise:	As previously noted , we published new independence standards dealing with non-audit/consulting services when the AICPA failed to act .
+orig hypothesis (1):	The AICPA failed to act and we were forced to intervene .
+adv hypothesis (2):	The AICPA failed to act and we were bounded to intervening .
+
+orig premise:	120 `` You do not think I ought to go to the police ? ''
+orig hypothesis (0):	Should I not go to the police ?
+adv hypothesis (1):	Should I not go to the patrolman ?
+
+orig premise:	Keep young skins safe by covering them with sunblock or a T-shirt , even when in the water .
+orig hypothesis (1):	The sun is usually intense there , causing sunburn easily .
+adv hypothesis (2):	The sun is conventionally lourdes there , causing sunburn easily .
+
+orig premise:	that 's hilarious to to get that jack off that 's right oh that 's a funny story
+orig hypothesis (0):	It 's a hilarious story .
+adv hypothesis (2):	It 's a hilarious escudos .
+
+orig premise:	The entire city was surrounded by open countryside with a scattering of small villages .
+orig hypothesis (2):	There is only one large village in the countryside .
+adv hypothesis (1):	There is only one large village in the landscapes .
+
+orig premise:	What 's more , there is no evidence of any competitive evaluation of Tripp before she was offered this job .
+orig hypothesis (2):	There is increasing evidence that the board brought in experts to evaluate Tripp prior to making an offer .
+adv hypothesis (1):	There is raises evidence that the board brought in experts to evaluate Tripp prior to making an offer .
+
+orig premise:	For example , the moderate scenario assumes a 50 % or $ 1 .
+orig hypothesis (0):	Moderate scenario takes 50 %
+adv hypothesis (2):	Moderate scenario elects 50 %
+
+orig premise:	It is not a surprise , either , that Al Pacino chews the scenery in Devil 's Advocate . And the idea that if the devil showed up on Earth he 'd be running a New York corporate-law firm is also , to say the least , pre-chewed .
+orig hypothesis (2):	Nobody expects that the devil would take the form of a lawyer .
+adv hypothesis (0):	Nobody expects that the devil would take the form of a jurist .
+
+orig premise:	As a result of the comments received , AMS changed the proposed rule and it was republished for comment in March 2000 .
+orig hypothesis (1):	The new version of the rule closed certain loopholes .
+adv hypothesis (2):	The new version of the rule keyhole own loopholes .
+
+orig premise:	The castle itself comprises an early 17th-century tower house , restored with Irish oak from the park which is held together without a single nail .
+orig hypothesis (1):	The Irish oak from the park does not need to be held together with nails , it has natural adhesive abilities .
+adv hypothesis (2):	The Irish oak from the park does not need to be held together with nails , it haya inherent adhesive posses .
+
+orig premise:	Now it 's my turn , and even if I 'm walking in a dead man 's shoes , I can make my way afresh .
+orig hypothesis (0):	It 's my turn to change things for myself .
+adv hypothesis (2):	It 's my cornering to change things for myself .
+
+orig premise:	For example , a case study of the effectiveness of a job training program might need to take into account general economic trends , such as unemployment rates in the community .
+orig hypothesis (1):	The case study would be incomplete without the acknowledgement of general economic trends .
+adv hypothesis (0):	The case study would be imperfect without the acknowledgement of general economic trends .
+
+orig premise:	Beyond the facade there are cavernous empty rooms .
+orig hypothesis (0):	There are large empty rooms past the entry .
+adv hypothesis (1):	There are large empty rooms past the admittance .
+
+orig premise:	oh yeah IBM uh i mean uh a lot of people use human factors folks but IBM is what i 'm looking at right now
+orig hypothesis (1):	I 'm looking at IBM right now but I 've looked at tons of other things .
+adv hypothesis (0):	I 'm looking at IBM right now but I 've looked at ton of other subject .
+
+orig premise:	No . I guess I 'm going too .
+orig hypothesis (1):	I guess I 'm going since my sister is .
+adv hypothesis (2):	I guess I 'm disappears ago my sis is .
+
+orig premise:	I am so constituted as to be unable to give away money with any satisfaction until I have made the most careful inquiry as to the worthiness of the cause .
+orig hypothesis (1):	Many charities are spend their money very unwisely .
+adv hypothesis (2):	Many charities are spend their money completely noisily .
+
+orig premise:	You 're the Desert Ghost .
+orig hypothesis (1):	You 're the Desert Ghost from the sand dunes .
+adv hypothesis (2):	You 're the Desert Ghost from the sand escarpment .
+
+orig premise:	The policy succeeded , and I was fortunate to have had the opportunity to make that contribution to my people .
+orig hypothesis (0):	Because the policy was a success , I was able to make a contribution to my people .
+adv hypothesis (1):	Because the policy was a headway , I was conceivable to make a contribution to my people .
+
+orig premise:	Concurrent with downsizing , procurement regulations have been modified to allow agencies greater flexibility and choice in selecting contracting methods for acquiring facilities .
+orig hypothesis (2):	Agencies have been further restricted and given less choice in selecting contracting methods .
+adv hypothesis (0):	Agencies have been further restricted and attributed less choice in takes agreements methods .
+
+orig premise:	It 's conceivable that some of these allegations are true , and there 's no harm in checking them out , as long as the decedent 's family agrees to participate .
+orig hypothesis (0):	Some of the allegations might be true .
+adv hypothesis (1):	Some of the reproaches might be true .
+
+orig premise:	GQ editor Art Cooper reportedly received two $ 1-million loans , one for a Manhattan apartment , the other for a Connecticut farm .
+orig hypothesis (1):	Art Cooper lost his job as GQ editor shortly after .
+adv hypothesis (2):	Art Cooper abandoned his job as GQ editor shortly after .
+
+orig premise:	the only thing that they had a great abundance of was uh you know human beings
+orig hypothesis (0):	The only thing they had that was plentiful was people .
+adv hypothesis (2):	The only thing they had that was plentiful was volk .
+
+orig premise:	Shall I tell you what it would be like for your soul to live in the muck of a swamp in a mandrake root ? Dave shook his head .
+orig hypothesis (0):	Shall I tell you how your soul could live in a mandrake root ?
+adv hypothesis (2):	Shall I tell you how your ame could live in a mandrake root ?
+
+orig premise:	Mr. Erlenborn attended undergraduate courses at the University of Notre Dame , Indiana University , the University of Illinois , and Loyala University of Chicago .
+orig hypothesis (0):	Mr. Erlenborn attended classes in at least four different universities .
+adv hypothesis (1):	Mr. Erlenborn involvements classes in at least four different universities .
+
+orig premise:	If you have any questions regarding this report , please call me at -LRB-202-RRB- 512-4841 .
+orig hypothesis (1):	I receive three phone calls a day asking about the report .
+adv hypothesis (0):	I receive two telefono calls a day asking about the report .
+
+orig premise:	i think it 's real good anyway it 's it 's been it was nice meeting you
+orig hypothesis (0):	It was nice meeting you
+adv hypothesis (1):	It was nice lectures you
+
+orig premise:	what do you think about uh about our new governor since she happens to be a female
+orig hypothesis (0):	What do you think about our new governor being a female ?
+adv hypothesis (2):	What fait you think about our new governor being a female ?
+
+orig premise:	In the 1980s , and as late as 1994 , a major Republican theme was a sort of taunting , nyah-nyah populism .
+orig hypothesis (2):	The Republican theme from the 80 is still on-going .
+adv hypothesis (1):	The Republican theme from the 80 is again on-going .
+
+orig premise:	The islands ' names refer to the different force winds hitting them , not their topography .
+orig hypothesis (1):	The islands are exposed to winter only during the winter .
+adv hypothesis (2):	The islands are exposed to winter only during the wintertime .
+
+orig premise:	Personal Communication with P. Croteau , Babcock Borsig Power , August 2001 .
+orig hypothesis (1):	In August 2001 , there was personal communication between P. Croteau and Babcock Borsig Power about technology contracts for the coming year .
+adv hypothesis (2):	In August 2001 , there was personas communication between P. Croteau and Babcock Borsig Power about technology contracts for the coming year .
+
+orig premise:	Look for these items in the picturesque open-air market of Sa Penya -LRB- Ibiza Town -RRB- or for a wider selection at the bustling , covered central market in the newer part of town -LRB- carrer d'Extremadura -RRB- .
+orig hypothesis (0):	The newer part of town has a wider selection .
+adv hypothesis (1):	The newer part of town enjoys a wider selection .
+
+orig premise:	IQ boosting was achieved through a fetal replacement process where the embryos from two carefully selected mothers were to be switched from one to another .
+orig hypothesis (2):	IQ boosting can not be done through fetal replacement .
+adv hypothesis (0):	IQ boosting can not ai fulfilled through uterus replacement .
+
+orig premise:	Outside , set in manicured gardens , are the remains of the Abbey of Holyrood .
+orig hypothesis (1):	The remains have been preserved as a site for pilgrims to visit .
+adv hypothesis (2):	The remains have been preserved as a locators for pilgrims to visit .
+
+orig premise:	Where is art ?
+orig hypothesis (1):	What is the place of art ? Asked the teacher .
+adv hypothesis (2):	What is the loco of art ? Asked the teacher .
+
+orig premise:	The other bank pays the fund interest based upon tiered account levels , more typical of a large commercial account .
+orig hypothesis (1):	The fund account has five different tiers .
+adv hypothesis (0):	The fund account possesses three different tiers .
+
+orig premise:	She gave the girl clothes and gifts and took her to her Connecticut estate for weekend pony rides , according to the Star . How was I supposed to compete with that ?
+orig hypothesis (0):	She gave the girl clothes , gifts and pony rides . That 's hard to compete with .
+adv hypothesis (1):	She gave the girl wardrobes , gift and pony rides . That 's difficult to compete with .
+
+orig premise:	Wear a nicely ventilated hat and keep to the shade in the street .
+orig hypothesis (1):	A sun umbrella might help those who really need shade everywhere .
+adv hypothesis (2):	A sun visor might help those who really need shade everywhere .
+
+orig premise:	Savonarola burned in Florence
+orig hypothesis (1):	Savonarola was branded a heretic and burned at the stake .
+adv hypothesis (2):	Savonarola was marchi a dogmatic and burned at the stake .
+
+orig premise:	The track continues past the necropolis to an impressive amphitheatre , very probably carved by Nabateans , but influenced by the Romans .
+orig hypothesis (0):	The path leads to an amphitheater that was influenced by Romans .
+adv hypothesis (2):	The path engenders to an amphitheater that was influenced by Romans .
+
+orig premise:	She was 96 just turning away when she heard a piercing whistle , and the faithful Albert came running from the building to join her .
+orig hypothesis (1):	She was an old lady who was out for a walk when she heard a noise .
+adv hypothesis (0):	She was an yesteryear lady who was out for a walk when she heard a noise .
+
+orig premise:	um-hum yeah we 're still pretty much you know in winter as far as that goes here
+orig hypothesis (1):	It has been winter here for years .
+adv hypothesis (0):	It has been winter here for yrs .
+
+orig premise:	If Washington Square is underripe , U-Turn and Devil 's Advocate are rotting .
+orig hypothesis (0):	There are rotting things .
+adv hypothesis (1):	There are reeking dots .
+
+orig premise:	It is worth a visit , if only to see the theater itself .
+orig hypothesis (0):	The place is definitely worth visiting , especially for its theater .
+adv hypothesis (1):	The place is definitely invaluable visiting , especially for its theater .
+
+orig premise:	As Ben Yagoda writes in the New York Times Book Review , somewhere along the way , Kidder must have decided not to write a book about Tommy O'Connor .
+orig hypothesis (0):	A book was not written about Tommy O'Connor .
+adv hypothesis (1):	A schoolbooks was not formulated about Tommy O'Connor .
+
+orig premise:	So he goes out and walks in the woods , little dreaming that Mrs. Inglethorp will open his desk , and discover the incriminating document .
+orig hypothesis (0):	He goes out into the woods .
+adv hypothesis (2):	He wanes out into the woods .
+
+orig premise:	`` If you people only knew how fatally easy it is to poison some one by mistake , you would n't joke about it .
+orig hypothesis (0):	You would n't joke about poisoning someone if you knew how easy it was to do by mistake .
+adv hypothesis (2):	You would n't joke about poisoned someone if you am how unadulterated it was to fait by wrong .
+
+orig premise:	As the road climbs toward the entrance , you 'll pass fields full of Santorini 's famed tomatoes growing on the steep slopes .
+orig hypothesis (0):	Along side the road leading to the entrance , you will pass fields of tomatoes .
+adv hypothesis (2):	Along side the road leading to the entrance , you will pass scopes of tomatoes .
+
+orig premise:	oh that 's accommodating
+orig hypothesis (1):	That fits in my schedule .
+adv hypothesis (0):	That aligns in my schedule .
+
+orig premise:	God i 'm envious
+orig hypothesis (1):	I 'm envious because it should be mine .
+adv hypothesis (0):	I 'm envious accordingly it should be mine .
+
+orig premise:	Jon ran as the tunnel collapsed behind him .
+orig hypothesis (2):	The tunnel remained intact .
+adv hypothesis (0):	The tunnel ongoing intact .
+
+orig premise:	A federal employment training program can report on the number of participants .
+orig hypothesis (1):	A federal employment training program can report how many of its participants got jobs within three months .
+adv hypothesis (2):	A goverment workday learner timed can proclamation how myriad of its participants attains jobs within three months .
+
+orig premise:	The Leland Act -LRB- 1 -RRB- simplify the household definition
+orig hypothesis (0):	The household definition can be simplified .
+adv hypothesis (2):	The household definition can be abridged .
+
+orig premise:	Local legend claims that he wrote part of his great saga , Os Lusadas , in what is now called the Camees Grotto , situated in the spacious tropical Camees Garden .
+orig hypothesis (2):	Local legend makes the claim that he did n't write any of his great saga in the Camees Grotto .
+adv hypothesis (0):	Local legend makes the claim that he had n't write any of his great saga in the Camees Grotto .
+
+orig premise:	The first installment of the Star Wars Trilogy Special Edition opened in theaters everywhere .
+orig hypothesis (0):	Star Wars can be seen in theaters .
+adv hypothesis (2):	Star Wars can be sawthe in theaters .
+
+orig premise:	In my Crossfire days , I was patronized even by Sam Donaldson .
+orig hypothesis (1):	I had many many fans during my Crossfire days .
+adv hypothesis (0):	I had many varied fans during my Crossfire days .
+
+orig premise:	Although the accounting and reporting model needs to be updated , in my view , the current attest and assurance model is also out of date .
+orig hypothesis (0):	The accounting model needs to be updated in addition to the assurance model .
+adv hypothesis (2):	The accounting model needs to viens updated in addition to the assurance model .
+
+orig premise:	This one ended up being surprisingly easy !
+orig hypothesis (0):	This question was very easy to answer .
+adv hypothesis (2):	This question was very sheer to answer .
+
+orig premise:	Through the Web site , a total of 1,634 associates donated nearly $ 200,000 to Legal Aid in 2002 .
+orig hypothesis (0):	1,634 associates gave money to Legal Aid through their site .
+adv hypothesis (1):	1,634 allies gave money to Legal Aid through their site .
+
+orig premise:	uh we 've gotten a little Atari computer uh husband describes it as a a computer with training wheels
+orig hypothesis (0):	Erm , we have acquired a small Atari computer .
+adv hypothesis (2):	Erm , we haya acquired a humble Atari computer .
+
+orig premise:	San ` doro 's blood ran over Stark 's blade and into Stark 's other cupped hand .
+orig hypothesis (1):	Stark was happy that San ` doro was dying .
+adv hypothesis (0):	Stark was content that San ` doro was dying .
+
+orig premise:	well and i i noticed since we moved down here to Texas my husband is originally from Texas but uh i 'm not and that you do n't have to have uh such a wide variety of seasonal clothes that you do up north where you have to
+orig hypothesis (0):	I 've noticed that since I 've moved down to Texas , one does n't need to have a wide variety of seasonal clothes .
+adv hypothesis (1):	I 've spotted that because I 've budge down to Texas , one does n't need to have a wide variety of wintertime clothes .
+
+orig premise:	I was pulled into the bar .
+orig hypothesis (1):	The lure of alcohol was unrelenting and the bar pulled me in .
+adv hypothesis (2):	The lure of alcohol was implacable and the bar pulled me in .
+
+orig premise:	Occasionally , he 'd wince and apologise for any incoherence .
+orig hypothesis (0):	He winced and apologized for any confusing speech , sometimes .
+adv hypothesis (2):	He winced and apologising for any confusing speech , sometimes .
+
+orig premise:	The Ile Saint-Louis is an enchanted self-contained island of gracious living , long popular with the more affluent gentry and celebrities of Paris .
+orig hypothesis (0):	The Ile Saint-Louis is popular with the wealthier citizens of Paris .
+adv hypothesis (1):	The Ile Saint-Louis is popular with the richest citizens of Paris .
+
+orig premise:	Exhibit 3 presents total national emissions of NOx and SO2 from all sectors , including power .
+orig hypothesis (0):	In Exhibit 3 there are the total national emissions od NOx and SO2 from all sectors .
+adv hypothesis (2):	In Exhibit 3 there are the outright national emissions od NOx and SO2 from all sectors .
+
+orig premise:	and the wind started blowing and it was one of my earlier trips to be really out in the middle of
+orig hypothesis (1):	I was scared and wanted to go home .
+adv hypothesis (2):	I was affraid and wanted to go home .
+
+orig premise:	Well aware of the island 's burgeoning wealth and repository of supplies , the French pirate Bertrand de Montluc sailed into Funchal harbor with his 11-galleon armada and 1,300 men .
+orig hypothesis (0):	Bertrand de Montluc arrived at the island with a great force of men .
+adv hypothesis (2):	Bertrand de Montluc viens at the islander with a great soldiers of men .
+
+orig premise:	Although it ceased to be a political capital in 1707 -LRB- when Scotland joined with England to create the United Kingdom -RRB- , Edinburgh was at the forefront of intellectual debate .
+orig hypothesis (0):	Edinburgh was a focal point in the intellectual debate despite losing its status as a political capital when the United Kingdom was established .
+adv hypothesis (2):	Edinburgh was a harmonizing point in the intellectual debate despite losing its status as a political capital when the United Kingdom was established .
+
+orig premise:	They would burn to the ground by morning .
+orig hypothesis (0):	By morning , they would burn to the ground .
+adv hypothesis (2):	By morning , they would combust to the ground .
+
+orig premise:	They were inferior .
+orig hypothesis (1):	They were inferior because they lacked knowledge .
+adv hypothesis (0):	They were inferior than they lacked knowledge .
+
+orig premise:	aCondition Assessment Survey -LRB- CAS -RRB- .
+orig hypothesis (1):	CAS is a test that qualifies new recruits .
+adv hypothesis (0):	CAS is a test that qualifies ny recruits .
+
+orig premise:	One thing was worrying me dreadfully , but my heart gave a great throb of relief when I saw my ulster lying carelessly over the back of a chair .
+orig hypothesis (1):	The chair was tall and made of wood .
+adv hypothesis (2):	The chair was high and made of wood .
+
+orig premise:	so i really i really do n't have heart burn at all with doing it myself over four nights tie i tied the car up if four days but we 're fortunate we did n't need it
+orig hypothesis (0):	When I did it for four nights I did n't have heartburn .
+adv hypothesis (1):	When I did it for four nights I did n't owns heartburn .
+
+orig premise:	For a review of the literature , see William G. Gale and John Sabelhaus , Perspectives on the Household Saving Rate , Brookings Papers on Economic Activity -LRB- 1:1999 -RRB- , pp. 181-224 .
+orig hypothesis (0):	References used in this instance include Gale/Sabelhaus , Perspectives on the Household Saving Rate , which is available for review .
+adv hypothesis (1):	References used in this cases include Gale/Sabelhaus , Perspectives on the Household Saving Rate , which is affordable for revised .
+
+orig premise:	yeah and every once in a while they 'll have dressing but uh whoever makes it uh goes crazy with the sage
+orig hypothesis (0):	Sometimes they have dressing but they use too much sage .
+adv hypothesis (1):	Sometimes they have dressing but they use too many sage .
+
+orig premise:	World demand increased with the growth of the motor-car and electrical industries , and sky-rocketed during World War I. By 1920 , Malaya was producing 53 percent of the world 's rubber , which had overtaken tin as its main source of income .
+orig hypothesis (2):	The lack of interest relegated Malaya 's rubber production to being a novelty .
+adv hypothesis (1):	The lack of beware relegated Malaya 's rubber production to being a novelty .
+
+orig premise:	This includes all testing , information review , and interviews related to data reliability .
+orig hypothesis (0):	All testing related to data reliability will be included .
+adv hypothesis (1):	All testing related to data reliability will be recessed .
+
+orig premise:	now you know the ball 'll go straight and i go i never broke a club or anything but you know i 'd get upset about it sometimes and now i guess you know being in my forties i just kind of mellowed out a little bit i do n't get upset any more so
+orig hypothesis (0):	I used to get upset about it , but not anymore .
+adv hypothesis (1):	I used to get furious about it , but not also .
+
+orig premise:	The only comprehensible explanation is that the vocation that had burrowed in next to medicine had taken control , had insisted .
+orig hypothesis (2):	The only explanation is that nothing has taken control of medicine .
+adv hypothesis (0):	The only explanation is that nothing has taken checked of medicine .
+
+orig premise:	In my Crossfire days , I was patronized even by Sam Donaldson .
+orig hypothesis (0):	During Crossfire , even Sam Donaldson patronized me .
+adv hypothesis (2):	During Crossfire , even Sam Donaldson disrespected me .
+
+orig premise:	The final reason for the teen renaissance is boomer self-obsession .
+orig hypothesis (1):	There are 15 key reasons for the teen renaissance we are seeing .
+adv hypothesis (2):	There are 15 elham reasons for the teen renaissance we are viewed .
+
+orig premise:	Most menu prices include taxes and a service charge , but it 's customary to leave a tip if you were served satisfactorily .
+orig hypothesis (0):	Prices on the menu include taxes , but customers decide whether or not to tip .
+adv hypothesis (2):	Prices on the menu include taxes , but talkers decide whether or not to tip .
+
+orig premise:	well and i i noticed since we moved down here to Texas my husband is originally from Texas but uh i 'm not and that you do n't have to have uh such a wide variety of seasonal clothes that you do up north where you have to
+orig hypothesis (0):	My husband is originally from Texas , and is used to not having a wide variety of seasonal clothes .
+adv hypothesis (2):	My fiancé is already from Texas , and is used to not having a wide variety of seasonal clothes .
+
+orig premise:	5 -RRB- The Democrats are reaping what they sowed -LRB- after torturing Robert Bork , John Tower , and Clarence Thomas -RRB- .
+orig hypothesis (1):	Democrats are replacing many Republicans because they were always very forceful in their approach .
+adv hypothesis (2):	Democrats are replacing many Republicans because they were always entirely resolute in their approach .
+
+orig premise:	Inflation is supposed to be a deadly poison , not a useful medicine .
+orig hypothesis (0):	Inflation is meant to be something that harms , not something that heals .
+adv hypothesis (2):	Inflation is intimated to be something that harms , not something that heals .
+
+orig premise:	The large scale production of entertainment films is a phenomenon well worth seeing several times .
+orig hypothesis (2):	The production of entertainment films can be dull .
+adv hypothesis (1):	The produces of hobbies photos can sont tedious .
+
+orig premise:	Abortive countrywide revolts
+orig hypothesis (0):	The country is in unrest .
+adv hypothesis (1):	The country is in upheaval .
+
+orig premise:	The strangest role reversal is going on right now and concerns democracy itself .
+orig hypothesis (2):	There is not role reversal going on right now in relation to democracy .
+adv hypothesis (0):	There is not roles reversal going on right now in relation to democracy .
+
+orig premise:	In our family we have two sons in public life .
+orig hypothesis (1):	Having Two sons in public puts strains on our family 's privacy .
+adv hypothesis (2):	Having Two sons in public puts isolates on our family 's privacy .
+
+orig premise:	So have I for that matter , but I flatter myself that my choice of dishes was more judicious than yours .
+orig hypothesis (0):	My choice of dishes was more judicious than yours .
+adv hypothesis (2):	My choice of platters was more judicious than yours .
+
+orig premise:	The state legislature provides significant bipartisan support for the legal services delivery system .
+orig hypothesis (0):	State legislature gives significant bipartisan support for legal delivery .
+adv hypothesis (2):	State lawmakers gives significant bipartisan pomoc for legal delivery .
+
+orig premise:	The pieces paying 33 .
+orig hypothesis (1):	The pieces paying every 3 hours .
+adv hypothesis (2):	The pieces paying every 3 hrs .
+
+orig premise:	If anything , ultimate fighting is safer and less cruel than America 's blood sport .
+orig hypothesis (0):	There are things that are more dangerous that ultimate fighting .
+adv hypothesis (2):	There are thing that are more dangerous that ultimate fighting .
+
+orig premise:	After four years , Clinton has learned how to avoid looking unpresidential .
+orig hypothesis (0):	Four years later , Clinton understands how to look presidential .
+adv hypothesis (1):	Four years subsequently , Clinton understands how to look presidential .
+
+orig premise:	But when the cushion is spent in a year or two , or when the next recession arrives , the disintermediating voters will find themselves playing the roles of budget analysts and tax wonks .
+orig hypothesis (0):	The cushion will likely be spent in under two years .
+adv hypothesis (1):	The cushion will eventually be spent in under two years .
+
+orig premise:	Bush the elder came of age when New England Republicans led the party , and patrician manners were boons to a Republican .
+orig hypothesis (2):	New England Republicans were weak .
+adv hypothesis (0):	New England Republicans were delicate .
+
+orig premise:	This confluence of a bad tax , a $ 1 billion reserve , a botched opposition campaign , and voters willing to call a bluff resulted in the I-695 victory .
+orig hypothesis (0):	The I-695 victory was the result of a botched opposition campaign and votes willing to call a bluff .
+adv hypothesis (1):	The I-695 victory was the result of a botched contrasting crusade and votes ready to call a bluff .
+
+orig premise:	Oh , I I have n't quite worked that out .
+orig hypothesis (0):	I have n't put that together yet .
+adv hypothesis (1):	I have n't tabled that along yet .
+
+orig premise:	Boca da Corrida Encumeada -LRB- moderate ; 5 hours -RRB- : views of Curral das Freiras and the valley of Ribeiro do Poco .
+orig hypothesis (0):	Boca da Corrida Encumeada is a moderate text that takes 5 hours to complete .
+adv hypothesis (1):	Boca procurator Corrida Encumeada is a moderate text that takes 5 hora to whole .
+
+orig premise:	They managed to control much of the country for nearly a century before the Muslim leader Saladin -LRB- Salah-ad-Din -RRB- defeated them in 1187 .
+orig hypothesis (0):	They were defeated by Saladin , a Muslim leader , and lost control of the large part of the country they had .
+adv hypothesis (1):	They were defeated by Saladin , a Muslim leaders , and lost control of the large part of the country they had .
+
+orig premise:	What and who will they tax ?
+orig hypothesis (1):	They will tax many people , but whom ?
+adv hypothesis (2):	They will tax many personas , but whom ?
+
+orig premise:	An ancient Greek trading post , the town manages to combine the atmosphere of a resort with a gutsy , bustling city life .
+orig hypothesis (1):	Prior to becoming a Greek trading post the town was thought to have been a Macedonian fishing village .
+adv hypothesis (2):	Prior to becoming a Greek trading post the town was conceptions to have been a Macedonian fishing village .
+
+orig premise:	What a brilliantly innocuous metaphor , devised by a master manipulator to obscure his manipulations .
+orig hypothesis (0):	The metaphor was created by the manipulator .
+adv hypothesis (2):	The metaphor was created by the manipulators .
+
+orig premise:	HCFA published a Notice of Proposed Rulemaking on March 28 , 1997 -LRB- 62 Fed .
+orig hypothesis (1):	HCFA tried to keep everyone informed about the rules they were making .
+adv hypothesis (2):	HCFA prosecuted to keep everyone reported about the rules they were having .
+
+orig premise:	Mortifyingly enough , it is all the difficulty , the laziness , the pathetic formlessness in youth , the round peg in the square hole , the whatever do you want ?
+orig hypothesis (2):	Youth are known to be go-getters .
+adv hypothesis (1):	Youth are known to happen go-getters .
+
+orig premise:	but it but again it depends on what job you 're in the men that are out there fixing power lines are tested a lot
+orig hypothesis (1):	They drug test the men who fix power lines .
+adv hypothesis (0):	They substance test the men who fix power lines .
+
+orig premise:	We did it with the aid of consultants and other equal justice stakeholders .
+orig hypothesis (0):	The help from consultants and other stakeholders was useful in doing it .
+adv hypothesis (1):	The help from consultants and other stakeholders was profitable in doing it .
+
+orig premise:	Say , man , do n't you know you 've been given up for dead ?
+orig hypothesis (1):	He died of starvation after being left in the desert by his group of friends .
+adv hypothesis (2):	He died of destitution after being left in the desert by his group of friends .
+
+orig premise:	well that 's good that 's great
+orig hypothesis (2):	Shit , that is bad , that is horrible .
+adv hypothesis (0):	Shit , that is amiss , that is egregious .
+
+orig premise:	Now it 's my turn , and even if I 'm walking in a dead man 's shoes , I can make my way afresh .
+orig hypothesis (0):	It 's my turn to do this .
+adv hypothesis (2):	It 's my transmutation to do this .
+
+orig premise:	Under the overmechanical assumptions of affirmative-action opponents themselves -LRB- and putting aside the racial IQ theories of Murray and some others -RRB- , blacks would move up the list , and whites would move down .
+orig hypothesis (1):	Support for affirmative action laws has declined slightly over the past few years .
+adv hypothesis (0):	Support for affirmative action laws has declined slightly over the past unusual yr .
+
+orig premise:	And put like that , she added confidentially to Tommy , `` nobody could boggle at the expense ! '' Nobody did , which was the great thing .
+orig hypothesis (0):	She talked to Tommy
+adv hypothesis (2):	She talk to Tommy
+
+orig premise:	i never managed to plan my departure right
+orig hypothesis (0):	My departure was n't properly planned .
+adv hypothesis (1):	My departure was n't properly envisage .
+
+orig premise:	um-hum they have socialized socialized health care
+orig hypothesis (0):	They have socialized health care .
+adv hypothesis (2):	They have socialism health care .
+
+orig premise:	but it but again it depends on what job you 're in the men that are out there fixing power lines are tested a lot
+orig hypothesis (2):	The men who fix the power lines are never tested .
+adv hypothesis (1):	The grooms who fix the electricity lines are never proved .
+
+orig premise:	and not only is it you know trouble to have to drive but it takes time away from your home and your family when you 're out driving
+orig hypothesis (1):	Driving is difficult because it takes many hours .
+adv hypothesis (2):	Driving is herculean because it takes many hrs .
+
+orig premise:	I ordered Better Sexual Techniques , Advanced Sexual Techniques , Making Sex Fun , and Advanced Oral Sex Techniques -LRB- priced about $ 11 .
+orig hypothesis (2):	My orders did not have any sexual references .
+adv hypothesis (1):	My orders did not enjoy any immodest insinuations .
+
+orig premise:	so i do n't completely agree with that either
+orig hypothesis (2):	And I totally agree with that too .
+adv hypothesis (0):	And I entirely agree with that too .
+
+orig premise:	Kentucky officials say there is a virtual epidemic of abusive relationships in the state .
+orig hypothesis (0):	There is a lot of domestic abuse in Kentucky .
+adv hypothesis (1):	There is a alot of hometown abuse in Kentucky .
+
+orig premise:	yep same here
+orig hypothesis (0):	I experienced something similar .
+adv hypothesis (1):	I experience something similar .
+
+orig premise:	One of them , darker skinned , had hair braided into two lines .
+orig hypothesis (1):	They braid their hair to keep it out of the way during combat .
+adv hypothesis (2):	They shoelace their hair to keep it out of the way during combat .
+
+orig premise:	Transforming Control of Public Health Programs Raises Concerns -LRB-
+orig hypothesis (1):	The health program transformation is bad .
+adv hypothesis (0):	The health program transformation is untoward .
+
+orig premise:	Though he abstains from showbizzy campaigning , he markets his virtue and exploits his legend .
+orig hypothesis (1):	He is capable to market his virtue , exploiting his legend , but fans are starting to get tired of it .
+adv hypothesis (0):	He is capable to market his virtue , exploiting his legend , but fan are starting to get achy of it .
+
+orig premise:	Yes , sir .
+orig hypothesis (1):	I will take care of that right away Sir .
+adv hypothesis (2):	I gonna take care of that right away Sir .
+
+orig premise:	Because of limited resources , local legal services programs are forced to turn away tens of thousands of people with critical legal problems .
+orig hypothesis (2):	Local services programs only turn a few dozen people away as a result of lacking resources .
+adv hypothesis (0):	Local service programs only turn a few dozen person away as a result of lack resources .
+
+orig premise:	It started with The Wild Bunch : We sexualized violence , we made it beautiful .
+orig hypothesis (2):	The outlook on violence was not affected by The Wild Bunch .
+adv hypothesis (1):	The outlook on violence was not afflicts by The Wild Bunch .
+
+orig premise:	Hence , it appears likely that the proportion of LC to AO mail is less for inbound mail than for outbound .
+orig hypothesis (0):	It looks like the proportion of LC to AO mail is less for inbound mail than for outbound .
+adv hypothesis (2):	It looks aime the proportion of LC to AO mail is less for inbound mail than for outbound .
+
+orig premise:	um i 've visited the Wyoming area i 'm not sure exactly where Dances with Wolves was filmed
+orig hypothesis (2):	I know exactly where Dances with Wolves was filmed .
+adv hypothesis (0):	I savoir exactly where Dances with Wolves was filmed .
+
+orig premise:	But there are two kinds of the pleasure of doing , and the pleasure of not doing ; the pleasure of indulging , and the pleasure of abstinence .
+orig hypothesis (1):	The pleasure of doing is much stronger than that of not doing .
+adv hypothesis (0):	The pleasure of doing is much strengthen than that of not doing .
+
+orig premise:	General Accounting Office , A Model of Strategic Human Capital Management , GAO-02-373SP -LRB- Washington , D.C. : Mar. .
+orig hypothesis (1):	The GAO may be a model of strategic human capital management .
+adv hypothesis (0):	The GAO may fi a model of strategic human capital management .
+
+orig premise:	appropriate agency representatives , help resolve
+orig hypothesis (1):	the right agency workers , help fix my security system
+adv hypothesis (2):	the right agency laborer , help fix my security system
+
+orig premise:	As a professional courtesy , GAO will inform requesters of substantive media inquiries during an ongoing assignment .
+orig hypothesis (1):	It is rare for GAO to do something as a professional courtesy .
+adv hypothesis (0):	It is unusual for GAO to do something as a professional courtesy .
+
+orig premise:	Also , Time claims that for the past year , the FBI has been seeking Robert Jacques , a possible accomplice to Timothy McVeigh in the Oklahoma City bombing .
+orig hypothesis (0):	It is suggested the feds have been looking for an accomplice to the bombing for the past year .
+adv hypothesis (1):	It is suggests the feds have been staring for an conspirator to the bombing for the past year .
+
+orig premise:	In this enclosed but airy building , you 'll find ladies with large machetes expertly chopping off hunks of kingfish , tuna , or shark for eager buyers .
+orig hypothesis (2):	You 'll find small lepers chopping of chunks of tuna , its the only place they can work .
+adv hypothesis (1):	You 'll find minor lepers chopping of chunks of tuna , its the only place they can work .
+
+orig premise:	Then , all the time , it was in the spill vase in Mrs. Inglethorp 's bedroom , under our very noses ? I cried .
+orig hypothesis (0):	You mean we were so near it constantly ?
+adv hypothesis (2):	You mean we were yet around it constantly ?
+
+orig premise:	Per week ?
+orig hypothesis (1):	The week is the first in the month .
+adv hypothesis (2):	The week is the first in the mois .
+
+orig premise:	it depends a lot of uh a lot of things were thought that uh as you know the farmers thought okay we got chemicals we 're putting chemicals on the field well the ground will naturally filter out the
+orig hypothesis (0):	Even if farmers put chemicals in the ground , the ground eventually filters them out .
+adv hypothesis (1):	Even if farmers put chemicals in the ground , the ground still filtration them out .
+
+orig premise:	yeah well that 's the other thing you know they talk about women leaving the home and going out to work well still taking care of the children is a very important job and and someone 's got to do it and be able to do it right and
+orig hypothesis (0):	Somebody still needs to stay at home to care for the children .
+adv hypothesis (2):	Somebody still gotta to stay at home to care for the children .
+
+orig premise:	I knew him and liked and respected him .
+orig hypothesis (0):	I knew the man .
+adv hypothesis (2):	I knew the homeboy .
+
+orig premise:	actually i listened to one time i remember it 's this is back when rap even uh i would say about ten or fifteen years ago i
+orig hypothesis (1):	About 15 years ago I listened to Rap one time , I am not really that fond of it ,
+adv hypothesis (0):	About 15 years bygone I listened to Rap one time , I am not really that fond of it ,
+
+orig premise:	upwards of a mile but Washington is one of my favorite places to visit uh my daughter lives in Arlington and when i go to visit her i love to get out on that bike trail and either ride the bike oh gosh you can ride a bike practically all the way to southern Virginia
+orig hypothesis (0):	I enjoy biking when I visit my daughter .
+adv hypothesis (2):	I iike biking when I visit my daughter .
+
+orig premise:	And two - the personal pronoun problems were going to get serious .
+orig hypothesis (0):	There were going to be problems with the personal pronoun .
+adv hypothesis (2):	There were gonna to be problems with the personal pronoun .
+
+orig premise:	Pro-choicers point out that these close-up images literally cut the fetus 's context -- the woman -- out of the picture .
+orig hypothesis (1):	Pro-choices say the close-up images are unfair to women .
+adv hypothesis (2):	Pro-choices say the close-up images are unfairness to women .
+
+orig premise:	And yet , we still lack a set of global accounting and reporting standards that reflects the globalization of economies , enterprises , and markets .
+orig hypothesis (2):	We have comprehensive global reporting standards that reflects the globalization of economies , and markets .
+adv hypothesis (0):	We possess comprehensive international reporting standards that reflects the globalization of economies , and markets .
+
+orig premise:	A martini should be gin and vermouth and a twist .
+orig hypothesis (0):	A martini must be composed by gin and vermouth .
+adv hypothesis (2):	A daiquiris must be makeup by gin and vermouth .
+
+orig premise:	do you do you put it in the refrigerator then or you
+orig hypothesis (2):	You do n't have a refrigerator .
+adv hypothesis (1):	You achieve n't have a cooler .
+
+orig premise:	And , could it not result in a decline in Postal Service volumes across -- the -- board ?
+orig hypothesis (0):	Is it possible there would be a decline in all the Postal Service volumes ?
+adv hypothesis (2):	Is it likely there would be a decline in all the Postal Service volumes ?
+
+orig premise:	million in savings this year .
+orig hypothesis (1):	The money saved will be used to grow the company internationally over the next 5 years .
+adv hypothesis (2):	The money saved gonna remain used to grow the company internationally over the next 5 years .
+
+orig premise:	Although this award will now be handed out annually , Bailey was selected for several years of his commitment .
+orig hypothesis (2):	Bailey , despite his several years of commitment to the award , was never chosen once .
+adv hypothesis (1):	Bailey , despite his many years of commitment to the award , was never choice once .
+
+orig premise:	HE KNOWS ABOUT THE MINES .
+orig hypothesis (2):	He has no idea that the mines exist .
+adv hypothesis (1):	He has no idea that the landmines exist .
+
+orig premise:	Hardly catering to locals , Universal Citys Cityalk attempts to snag tourist dollars with its extensive collection of retail wonders , including magic shops , toy stores , sports shops , and a host of science fiction memorabilia .
+orig hypothesis (1):	Some locals do , however , frequent the sports shops .
+adv hypothesis (0):	Some resident do , however , frequent the sports shops .
+
+orig premise:	That story remains to be told .
+orig hypothesis (1):	The story will be told tomorrow .
+adv hypothesis (2):	The story will be told tommorrow .
+
+orig premise:	The girls who wish to wear the scarf in Turkey say it represents Muslim female empowerment , and they consider themselves oppressed if it 's forbidden .
+orig hypothesis (0):	There are women in Turkey who prefer to wear the scarf .
+adv hypothesis (2):	There are girlie in Turkey who prefer to wear the scarf .
+
+orig premise:	Others watched them with cold eyes and expressionless faces .
+orig hypothesis (1):	The group was too downtrodden to engage emotionally .
+adv hypothesis (2):	The group was too oppressor to engage emotionally .
+
+orig premise:	Upon commencement of commercial operation of each new utility unit under subpart 1 of part B , the unit shall comply with the requirements of subsection -LRB- a -RRB- -LRB- 1 -RRB- .
+orig hypothesis (0):	the unit shall comply with the requirements of subsection a1 under certain conditions .
+adv hypothesis (2):	the unit shall fulfilment with the requirements of subsection a1 under certain conditions .
+
+orig premise:	Voluntariness of risks is evaluated .
+orig hypothesis (0):	The voluntary nature of risks is evaluated .
+adv hypothesis (2):	The voluntary idiosyncrasies of risks is evaluated .
+
+orig premise:	Of particular significance -- the American public has become acutely aware of the hazards to their health , including the risk of mortality , posed by inhalation of fine particles and exposure to mercury through fish consumption .
+orig hypothesis (1):	The consumption of fish is the main way in which mercury poisoning occurs .
+adv hypothesis (0):	The consumption of fish is the prominent way in which mercury poisoning occurs .
+
+orig premise:	No , I do n't know .
+orig hypothesis (1):	I do n't know what she said , no .
+adv hypothesis (0):	I does n't know what she say , no .
+
+orig premise:	you know getting clothes and stuff every once in awhile exactly
+orig hypothesis (2):	They do n't ever get new clothes or stuff .
+adv hypothesis (1):	They do n't ever get new gowns or stuff .
+
+orig premise:	Next , you enter the vast and splendid Imperial Hall , with three handsome marble fountains , and a canopied throne from which the sultan would enjoy the music and dancing of his concubines .
+orig hypothesis (0):	The Imperial Hall houses three marble fountains .
+adv hypothesis (2):	The Imperial Hall houses five impassive fountains .
+
+orig premise:	But you have to have money to save it , and not many couples with young children have the luxury of tucking away $ 2,000 apiece annually for their Golden Years .
+orig hypothesis (1):	Couples with children are constantly looking for ways to make more money .
+adv hypothesis (2):	Couples with children are constantly digs for ways to make more money .
+
+orig premise:	Hughes has accomplished this in part by the unusual technique of double ghosting .
+orig hypothesis (2):	He was not able to ghost .
+adv hypothesis (1):	He was not incapable to ghost .
+
+orig premise:	Windows 95 costs about $ 90 at my local computer superstore .
+orig hypothesis (1):	Windows 95 is a bargain .
+adv hypothesis (0):	Windows 95 is a bargains .
+
+orig premise:	His arm came up over his eyes , cutting off the glare .
+orig hypothesis (0):	He raised his arm to protect his eyes from the glare .
+adv hypothesis (1):	He raise his arm to protect his eyes from the glare .
+
+orig premise:	There 's a lot of villas all the way along , but by degrees they seemed to get more and more thinned out , and in the end we got to one that seemed the last of the bunch .
+orig hypothesis (1):	There 's a lot of huge villas all the way along , but they seemed to get more and more thinned out and bigger and bigger until we reached the largest and most secluded one that seemed to be the last .
+adv hypothesis (0):	There 's a myriad of huge villas all the way along , but they seemed to get more and more thinned out and bigger and bigger until we reached the largest and most secluded one that seemed to be the last .
+
+orig premise:	The community courthouse will be held every second Tuesday of the month at Carver at 217 Paso Hondo .
+orig hypothesis (1):	They were grateful to have a place to hold their meetings .
+adv hypothesis (2):	They were cognizant to have a mise to hold their meetings .
+
+orig premise:	' I see . '
+orig hypothesis (2):	I was blind .
+adv hypothesis (1):	I was blinded .
+
+orig premise:	but but it is peaceful i mean it is relaxing to do once you find the time to do it
+orig hypothesis (0):	If you have time , it is relaxing .
+adv hypothesis (1):	If you have hours , it is relieving .
+
+orig premise:	you know even even into major things just to keep our car longer because i do n't think we get the money that we put into them out of them in two years or three years and of course i was never in a position where i could trade my car off every two years
+orig hypothesis (0):	I have never been able to trade my car off every couple of years .
+adv hypothesis (1):	I have never been able to traded my vehicle off any couple of yrs .
+
+orig premise:	It is constrained by laws and regulations formulated by Congress over more than two centuries .
+orig hypothesis (0):	The regulations were created over the course of more than two hundred years .
+adv hypothesis (1):	The regulations were founded over the course of more than two hundred years .
+
+orig premise:	and the NIT semifinals are on tonight
+orig hypothesis (1):	The NIT semifinals take place in New York City tonight .
+adv hypothesis (2):	The NIT qualifiers take place in New York City tonight .
+
+orig premise:	That is , businesses commonly contract out any function that can be done by another firm at a lower cost .
+orig hypothesis (0):	Some firsts are able to perform business functions at different costs .
+adv hypothesis (1):	Some firsts are incompetent to perform business functions at different costs .
+
+orig premise:	but uh i 've always enjoyed uh the train and you know fooling with it and all
+orig hypothesis (2):	I think trains are quite boring .
+adv hypothesis (0):	I think trains are eminently tiresome .
+
+orig premise:	She 's very tired .
+orig hypothesis (0):	She is very tired .
+adv hypothesis (2):	She is very carsick .
+
+orig premise:	He found himself thinking in circles of worry and pulled himself back to his problem .
+orig hypothesis (2):	He got lost in circles of worry , and could not face his problem anymore .
+adv hypothesis (1):	He got lost in circles of worry , and could not face his hassles anymore .
+
+orig premise:	Republican consultants agree that conservative candidates in the South , Southwest , Midwest , and Rocky Mountains will beg for Reed 's talents and connections .
+orig hypothesis (2):	Republicans do not thing anyone will want Reed 's talents .
+adv hypothesis (1):	Republicans do not thing anyone lust craving Reed 's talents .
+
+orig premise:	okay okay that 's it that GTE had purchased Tigon and yeah that 's what we have
+orig hypothesis (1):	GTE spent a lot of money to acquire Tigon .
+adv hypothesis (0):	GTE spent a parcel of money to acquire Tigon .
+
+orig premise:	She has believed that the sleeping draught she administered was perfectly harmless , but there is no doubt that for one terrible moment she must have feared that Mrs. Inglethorp 's death lay at her door .
+orig hypothesis (0):	She thought that the sleeping draught she took could cause no harm .
+adv hypothesis (2):	She thought that the sleeping draught she prise could cause no harm .
+
+orig premise:	Sir James 's presence in Manchester was not accidental .
+orig hypothesis (1):	Sir James had come to Manchester with the intent of buying a new carriage .
+adv hypothesis (2):	Sir James assumed come to Manchester with the intent of buying a nouveau carriage .
+
+orig premise:	No , Dave Hanson , you were too important to us for that .
+orig hypothesis (0):	No , Dave Hanson , you were too important to us .
+adv hypothesis (2):	No , Dave Hanson , you were too transcendent to us .
+
+orig premise:	With the gap still of landslide proportions in most polls , Dole has been written off , correctly or otherwise , by the pundits .
+orig hypothesis (2):	The pundits could not get enough of them .
+adv hypothesis (1):	The experts could not get enough of them .
+
+orig premise:	so you um-hum so you think it comes down to education or or something like that
+orig hypothesis (2):	It has nothing to do with education .
+adv hypothesis (0):	It haya nothing to do with education .
+
+orig premise:	The fancifully decorated Macau Palace , a floating casino moored on the western waterfront , is fitted out with gambling tables , slot machines -LRB- known locally as hungry tigers -RRB- and , for hungry humans , a restaurant .
+orig hypothesis (1):	Slot machines are called hungry tigers because of how fast they take a gambler 's money .
+adv hypothesis (2):	Slot machines are called hungry tigers because of how swifter they take a gambler 's money .
+
+orig premise:	an d now we got the governor she 's going to do that
+orig hypothesis (0):	Now we have the governor and she is going to do that .
+adv hypothesis (2):	Now we have the mayor and she is going to suis that .
+
+orig premise:	She did not reply .
+orig hypothesis (0):	She did n't respond .
+adv hypothesis (1):	She did n't fulfils .
+
+orig premise:	The statue was beheaded several years ago by islanders , who blame Josephine for her role in the slavery in Martinique .
+orig hypothesis (2):	The statue was erected to remind the populace to stay obedient to their masters .
+adv hypothesis (1):	The statue was erected to remind the people to persists obedient to their masters .
+
+orig premise:	Now then , Miss Tuppence , said Sir James , `` you know this place better than I do .
+orig hypothesis (1):	Miss Tuppence lived there , so she knew every nook and cranny .
+adv hypothesis (2):	Miss Tuppence lived there , so she knew every cornering and cranny .
+
+orig premise:	Our work has also shown that agencies can do a better job of providing incentives to encourage employees to improve performance and achieve results .
+orig hypothesis (1):	Popular incentives are trophies presented in a short ceremony .
+adv hypothesis (2):	Popular incentives are keepsakes presented in a short ceremony .
+
+orig premise:	well Jerry do you have a favorite team
+orig hypothesis (2):	Jerry , why do you hate sports ?
+adv hypothesis (1):	Jerry , why do you resentment gym ?
+
+orig premise:	allow the efficiencies of a low-cost mailstream to be available to all who can use them .
+orig hypothesis (1):	Everyone loves using the USPS .
+adv hypothesis (2):	Everyone iove using the USPS .
+
+orig premise:	um-hum yeah that 's very true you know how many is it they say we have so many lawyers in this country and i guess i i live near Washington being in in Baltimore it 's something like one in four people in the Washington
+orig hypothesis (0):	There are a lot of lawyers in this country .
+adv hypothesis (1):	There are a shipments of lawyer in this country .
+
+orig premise:	In this case , shareholders can pay twice for the sins of others .
+orig hypothesis (0):	shareholders can pay twice for the sins of others .
+adv hypothesis (2):	shareholders can paycheque doubly for the sins of others .
+
+orig premise:	There is an exhibition of highland dress , showing how it developed through the centuries .
+orig hypothesis (0):	They show different types of highland dress .
+adv hypothesis (2):	They show seperate types of highland dress .
+
+orig premise:	' I see . '
+orig hypothesis (0):	I saw it .
+adv hypothesis (2):	I vu it .
+
+orig premise:	But of course the DSM is informed by social values .
+orig hypothesis (0):	Social values play a role in determining the content of the DSM .
+adv hypothesis (1):	Social values play a roles in determining the content of the DSM .
+
+orig premise:	Angry consumers would complain about cheapo car care .
+orig hypothesis (0):	Cheapo car care is a complaint angry consumers have .
+adv hypothesis (2):	Cheapo car care is a inquirer angry consumers have .
+
+orig premise:	apparently apparently the appraisers likes it because our taxes sure is high is n't it it really is
+orig hypothesis (0):	The appraisers liked the item because our taxes are high .
+adv hypothesis (2):	The appraisers wanna the item because our taxes are high .
+
+orig premise:	He looks so awfully tired and bored , and yet you feel that underneath he 's just like steel , all keen 38 and flashing .
+orig hypothesis (1):	He looks like he needs two days of sleep .
+adv hypothesis (2):	He looks love he needs two days of sleep .
+
+orig premise:	The riotous revelry roars right past Mardi Gras -LRB- Shrove Tuesday -RRB- when red-costumed children star as devils , to its peak on Ash Wednesday .
+orig hypothesis (1):	Mardi Gras is only the more common name because it is not specifically linked to religion .
+adv hypothesis (2):	Mardi Gras is only the more ordinary name because it is not specifically linked to religion .
+
+orig premise:	They wanted you , so they got you . '' Dave considered it .
+orig hypothesis (1):	They wanted to use your skills , so they brought you here .
+adv hypothesis (2):	They wanted to uso your skills , so they brought you here .
+
